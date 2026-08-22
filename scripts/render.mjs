@@ -60,6 +60,40 @@ export function laurelSvg({ size = 28, cls = 'brand-mark', title = 'Laurel wreat
   return `<svg class="${cls}" width="${size}" height="${size}" viewBox="0 0 100 100" aria-hidden="true" focusable="false"><title>${esc(title)}</title><g fill="currentColor">${leaves.join('')}</g><circle cx="${cx}" cy="${cy}" r="${r}" fill="none" stroke="currentColor" stroke-opacity=".35" stroke-width="1.2" stroke-dasharray="2 3"/></svg>`;
 }
 
+/**
+ * Ionic column in engraving style, built from three stacked SVGs so the shaft can
+ * stretch to any height while capital and base keep their proportions.
+ * Strokes use vector-effect so line weight stays constant when scaled.
+ */
+export function columnSvg({ cls = 'column' } = {}) {
+  const VE = 'vector-effect="non-scaling-stroke"';
+  const G = 'fill="var(--col-fill,#faf6ee)" stroke="var(--col-line,rgba(91,26,74,.6))" stroke-width="1.4" stroke-linejoin="round"';
+  const flutes = [1, 2, 3, 4, 5, 6, 7].map((k) => `<line ${VE} x1="${32 + 7 * k}" y1="0" x2="${32 + 7 * k}" y2="100"/>`).join('');
+  return `<div class="${cls}" aria-hidden="true">
+  <svg class="col-capital" viewBox="0 0 120 84" preserveAspectRatio="xMidYMax meet" focusable="false"><g ${G}>
+    <rect ${VE} x="14" y="6" width="92" height="14" rx="2"/>
+    <rect ${VE} x="20" y="20" width="80" height="12"/>
+    <rect ${VE} x="30" y="32" width="60" height="30"/>
+    <circle ${VE} cx="26" cy="40" r="13"/><circle ${VE} cx="26" cy="40" r="6"/><circle ${VE} cx="26" cy="40" r="2"/>
+    <circle ${VE} cx="94" cy="40" r="13"/><circle ${VE} cx="94" cy="40" r="6"/><circle ${VE} cx="94" cy="40" r="2"/>
+    <path ${VE} d="M30 62 H90 L86 72 H34 Z"/>
+    <path ${VE} d="M32 72 H88 V84 H32 Z" stroke-dasharray="0 56 12 56 12"/>
+  </g></svg>
+  <svg class="col-shaft" viewBox="0 0 120 100" preserveAspectRatio="none" focusable="false">
+    <rect x="32" y="0" width="56" height="100" fill="var(--col-fill,#faf6ee)"/>
+    <g stroke="var(--col-flute,rgba(91,26,74,.28))" stroke-width="1.2">${flutes}</g>
+    <g stroke="var(--col-line,rgba(91,26,74,.6))" stroke-width="1.4"><line ${VE} x1="32" y1="0" x2="32" y2="100"/><line ${VE} x1="88" y1="0" x2="88" y2="100"/></g>
+  </svg>
+  <svg class="col-base" viewBox="0 0 120 74" preserveAspectRatio="xMidYMin meet" focusable="false"><g ${G}>
+    <path ${VE} d="M32 0 H88 L92 12 H28 Z" stroke-dasharray="0 56 200"/>
+    <rect ${VE} x="20" y="12" width="80" height="14" rx="7"/>
+    <rect ${VE} x="24" y="26" width="72" height="10"/>
+    <rect ${VE} x="16" y="36" width="88" height="16" rx="8"/>
+    <rect ${VE} x="8" y="52" width="104" height="22" rx="2"/>
+  </g></svg>
+</div>`;
+}
+
 function renderChart(index) {
   const s = index.series || [];
   if (!s.length) return '';
@@ -106,6 +140,9 @@ function renderHero(today, site) {
   const c = today.counters;
   return `<section class="hero" id="top">
   <div class="hero-bg" aria-hidden="true">${laurelSvg({ size: 720, cls: 'hero-laurel', title: '' })}</div>
+  <div class="frieze hero-frieze" aria-hidden="true"></div>
+  <div class="hero-columns" aria-hidden="true">${columnSvg({ cls: 'column column-l' })}${columnSvg({ cls: 'column column-r' })}</div>
+  <div class="hero-stylobate" aria-hidden="true"></div>
   <div class="container hero-inner">
     <p class="eyebrow hero-eyebrow">
       <span>Daily imperial status report</span><span class="sep" aria-hidden="true">·</span>
@@ -177,7 +214,7 @@ function renderStatus(content, today) {
   return `<section class="section" id="status">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">01 · System status</p>
+      <p class="eyebrow">I · System status</p>
       <h2 class="section-title">Imperial systems</h2>
       <p class="section-lede status-summary">${summary}</p>
     </div>
@@ -219,7 +256,7 @@ function renderToday(today) {
   return `<section class="section" id="today">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">02 · Today's dispatch</p>
+      <p class="eyebrow">II · Today's dispatch</p>
       <h2 class="section-title">${esc(today.roman.text)} <span class="title-dim">${esc(today.roman.aucRoman)}</span></h2>
       <p class="section-lede"><time datetime="${esc(today.date)}">${esc(longDate(today.date))}</time> — <em lang="la">${esc(today.roman.full)}</em> · ${esc(today.roman.monthLatin)} · AUC ${fmtInt(today.roman.auc)} · Consuls: vacant since AD 541 (Basilius)</p>
     </div>
@@ -283,7 +320,7 @@ function renderIndex(today) {
   return `<section class="section" id="index">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">03 · Roman Thought Index</p>
+      <p class="eyebrow">III · Roman Thought Index</p>
       <h2 class="section-title">How many people are thinking about Rome?</h2>
       <p class="section-lede">A daily attention gauge: human pageviews of six Roman-Empire articles on English Wikipedia, summed and compared with the trailing 30-day mean. It measures attention, not legions.</p>
     </div>
@@ -311,7 +348,7 @@ function renderTimeline(content) {
   return `<section class="section" id="timeline">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">04 · Timeline</p>
+      <p class="eyebrow">IV · Timeline</p>
       <h2 class="section-title">Incident log, 753 BC → AD 1453</h2>
       <p class="section-lede">Twenty-two centuries of uptime, two major outages, and a long tail of aftershocks. Filter by era.</p>
     </div>
@@ -336,7 +373,7 @@ function renderLibrary(content) {
   return `<section class="section" id="library">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">05 · Library</p>
+      <p class="eyebrow">V · Library</p>
       <h2 class="section-title">Read about it</h2>
       <p class="section-lede">Start with the people who were there, then the people who argued about it, then the novels.</p>
     </div>
@@ -364,7 +401,7 @@ function renderScreen(content) {
   return `<section class="section" id="screen">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">06 · Screen</p>
+      <p class="eyebrow">VI · Screen</p>
       <h2 class="section-title">Watch it</h2>
       <p class="section-lede">Films, series and documentaries, each rated for spectacle and for accuracy. The two are rarely correlated.</p>
     </div>
@@ -391,7 +428,7 @@ function renderLearn(content) {
   return `<section class="section" id="learn">
   <div class="container">
     <div class="section-head reveal">
-      <p class="eyebrow">07 · Learn</p>
+      <p class="eyebrow">VII · Learn</p>
       <h2 class="section-title">Go deeper</h2>
       <p class="section-lede">Podcasts, video, primary-source libraries, maps, courses, museums — and Latin, for the fully committed.</p>
     </div>
@@ -405,7 +442,7 @@ function renderFaq(content) {
   return `<section class="section" id="faq">
   <div class="container container-narrow">
     <div class="section-head reveal">
-      <p class="eyebrow">08 · FAQ</p>
+      <p class="eyebrow">VIII · FAQ</p>
       <h2 class="section-title">Questions, answered</h2>
     </div>
     <div class="faq reveal">${faq.map((f) => `
@@ -421,6 +458,7 @@ function renderFaq(content) {
 function renderFooter(today, site) {
   const year = Number(today.date.slice(0, 4));
   return `<footer class="site-footer">
+  <div class="frieze" aria-hidden="true"></div>
   <div class="container footer-inner">
     <div class="footer-brand">${laurelSvg({ size: 22 })}<span class="brand-name">Romanreturn</span></div>
     <p class="footer-line">Not affiliated with the Roman Empire (defunct since 476 / 1453).</p>
@@ -456,8 +494,8 @@ export function renderPage({ content = {}, today, site = {} }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
-<meta name="theme-color" content="#0b0b0e">
-<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#f6f1e8">
+<meta name="color-scheme" content="light">
 <link rel="canonical" href="${esc(siteUrl)}">
 <link rel="icon" href="./assets/favicon.svg" type="image/svg+xml">
 <meta property="og:type" content="website">
@@ -470,7 +508,7 @@ export function renderPage({ content = {}, today, site = {} }) {
 <meta name="twitter:description" content="${esc(today.verdict.answer)}. Checked daily at 06:00 UTC.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="./assets/styles.css">
 <script type="application/ld+json">${jsonLd}</script>
 </head>
