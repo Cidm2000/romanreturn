@@ -1,0 +1,152 @@
+{
+  "groups": [
+    {
+      "name": "Core institutions",
+      "components": [
+        {
+          "name": "Western Roman Empire",
+          "state": "down",
+          "sinceYear": 476,
+          "sinceLabel": "4 September AD 476",
+          "note": "Romulus Augustulus deposed by Odoacer; the imperial regalia shipped to Constantinople. Incident still open."
+        },
+        {
+          "name": "Eastern Roman Empire",
+          "state": "down",
+          "sinceYear": 1453,
+          "sinceLabel": "29 May 1453",
+          "note": "Constantinople falls to Mehmed II; Constantine XI dies in the breach. Last Roman process terminated (Trebizond, a splinter, followed in 1461)."
+        },
+        {
+          "name": "Roman Senate",
+          "state": "down",
+          "sinceYear": 603,
+          "sinceLabel": "c. AD 603 (last attested act)",
+          "note": "Last heard of acclaiming portraits of the emperor Phocas in 603; the Curia Julia became a church in 630. Still no quorum."
+        },
+        {
+          "name": "Consulship",
+          "state": "down",
+          "sinceYear": 541,
+          "sinceLabel": "AD 541",
+          "note": "Anicius Faustus Albinus Basilius was the last ordinary consul. Justinian quietly let the office lapse; later emperors kept the title for themselves."
+        },
+        {
+          "name": "Legions",
+          "state": "down",
+          "sinceYear": 636,
+          "sinceLabel": "c. AD 636 (Legio V Macedonica last attested)",
+          "note": "The last unit still carrying a legionary name disappears in Egypt during the Arab conquest. Re-enactors do not count."
+        },
+        {
+          "name": "Praetorian Guard",
+          "state": "down",
+          "sinceYear": 312,
+          "sinceLabel": "AD 312",
+          "note": "Disbanded by Constantine after the Milvian Bridge; the Castra Praetoria was demolished. Auctions of the Empire discontinued."
+        }
+      ]
+    },
+    {
+      "name": "Infrastructure",
+      "components": [
+        {
+          "name": "Aqueducts",
+          "state": "degraded",
+          "sinceYear": -19,
+          "sinceLabel": "19 BC (Aqua Virgo)",
+          "note": "Of the eleven ancient aqueducts, the Aqua Virgo still runs and feeds the Trevi Fountain. Roughly 1 of 11 online."
+        },
+        {
+          "name": "Roads",
+          "state": "degraded",
+          "sinceYear": -312,
+          "sinceLabel": "312 BC (Via Appia)",
+          "note": "The Via Appia is still in use. Most of the ~400,000 km network is now under modern roads, fields, or your hotel."
+        },
+        {
+          "name": "Pantheon",
+          "state": "operational",
+          "sinceYear": 126,
+          "sinceLabel": "c. AD 126 (Hadrianic rebuild)",
+          "note": "Largest unreinforced concrete dome in the world; still standing, still open. A church since 609, which helped."
+        },
+        {
+          "name": "Colosseum",
+          "state": "degraded",
+          "sinceYear": 80,
+          "sinceLabel": "AD 80",
+          "note": "Open daily. Capacity reduced from ~50,000 spectators to timed entry. Lions: 0."
+        },
+        {
+          "name": "Roman concrete",
+          "state": "operational",
+          "sinceYear": -200,
+          "sinceLabel": "c. 200 BC",
+          "note": "Still curing. Its self-healing lime clasts were finally explained in 2023. Has outlived the organisation that poured it."
+        }
+      ]
+    },
+    {
+      "name": "Legacy systems",
+      "components": [
+        {
+          "name": "Latin",
+          "state": "maintenance",
+          "sinceYear": 600,
+          "sinceLabel": "c. AD 600 (forks into Romance)",
+          "note": "Maintenance mode at the Vatican and in law, medicine, and taxonomy. Forked into Italian, Spanish, French, Portuguese, Romanian, Catalan and friends."
+        },
+        {
+          "name": "Roman law",
+          "state": "operational",
+          "sinceYear": 533,
+          "sinceLabel": "AD 533 (Corpus Iuris Civilis)",
+          "note": "Justinian's compilation underpins civil-law systems across Europe, Latin America and beyond. Still in production."
+        },
+        {
+          "name": "Calendar",
+          "state": "degraded",
+          "sinceYear": -45,
+          "sinceLabel": "1 January 45 BC (Julian)",
+          "note": "Forked to Gregorian in 1582. Twelve months, Roman names, Augustus still has 31 days. Julian branch maintained by several Orthodox churches."
+        },
+        {
+          "name": "Latin alphabet",
+          "state": "operational",
+          "sinceYear": -700,
+          "sinceLabel": "c. 700 BC",
+          "note": "You are reading it. Market share: most of the planet."
+        },
+        {
+          "name": "Roman numerals",
+          "state": "degraded",
+          "sinceYear": -500,
+          "sinceLabel": "c. 500 BC",
+          "note": "Reduced to clock faces, film copyrights, Super Bowls and monarchs. MMXXVI and counting."
+        },
+        {
+          "name": "Pontifex Maximus",
+          "state": "operational",
+          "sinceYear": -12,
+          "sinceLabel": "12 BC (Augustus assumes the title)",
+          "note": "Held by the emperors, then by the Bishop of Rome. Still in use. Still in Rome."
+        },
+        {
+          "name": "Chariot racing",
+          "state": "down",
+          "sinceYear": 549,
+          "sinceLabel": "AD 549 (last races, Circus Maximus)",
+          "note": "Last recorded races at the Circus Maximus were held by the Gothic king Totila. The Blues and Greens have been rebranded as football."
+        },
+        {
+          "name": "Gladiatorial games",
+          "state": "down",
+          "sinceYear": 404,
+          "sinceLabel": "c. AD 404",
+          "note": "Traditionally ended under Honorius after the death of the monk Telemachus. Replaced by reality television."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Why does this site exist?",
+    "a": "<p>In September 2023 a social-media trend revealed that a remarkable number of men think about the Roman Empire daily — some several times a day. We felt the underlying question deserved a proper answer, on a schedule. So every morning at 06:00 UTC a <a href=\"https://github.com/Cidm2000/romanreturn/actions\" rel=\"noopener\">GitHub Actions workflow</a> checks whether the Roman Empire is back, recomputes the counters, pulls the latest Wikipedia pageview data, and republishes this page.</p>"
+  },
+  {
+    "q": "Is the Roman Empire back?",
+    "a": "<p>No.</p>"
+  },
+  {
+    "q": "What would count as “back”?",
+    "a": "<p>Our criteria, none of which is currently met:</p><ul><li>☐ A functioning Senate sitting in Rome (the Curia Julia is still standing; it is a museum)</li><li>☐ At least one legion — roughly 4,800 legionaries; re-enactors and the Swiss Guard do not count</li><li>☐ Latin as the working language of government (Vatican City is 0.49 km² and does not count)</li><li>☐ A recognised Augustus, acclaimed by army or Senate</li><li>☐ Control of <em>mare nostrum</em> — all of it</li><li>☐ Bread and circuses (circuses must be chariot-grade)</li></ul><p>Partial credit is not available. The Roman Empire is a binary system.</p>"
+  },
+  {
+    "q": "Which fall are you counting from?",
+    "a": "<p>Both. The main counter starts on 4 September 476, when Odoacer deposed Romulus Augustulus and the Western Empire ended. The second starts on 29 May 1453, when Constantinople fell and the Eastern Empire — which called itself Roman to the very end — went with it. For the day counts the Julian dates are converted to the proleptic Gregorian calendar (5 September 476 and 7 June 1453) so the arithmetic is exact.</p>"
+  },
+  {
+    "q": "What about the Holy Roman Empire, the Ottomans, or Russia?",
+    "a": "<p>Claimants, not continuations. The Holy Roman Empire (800/962–1806) was, per Voltaire, neither holy, nor Roman, nor an empire. The Ottoman sultans styled themselves <em>Kayser-i Rûm</em> until 1922; Moscow called itself the Third Rome until 1917. All of them are tracked under <a href=\"#status\">Successor-claim watch</a>. Active claims: zero.</p>"
+  },
+  {
+    "q": "How is the Roman Thought Index calculated?",
+    "a": "<p>Daily pageviews by human users for six English Wikipedia articles — Roman Empire, Ancient Rome, Roman Republic, Julius Caesar, Fall of the Western Roman Empire, and Byzantine Empire — summed, via the public <a href=\"https://wikimedia.org/api/rest_v1/\" rel=\"noopener\">Wikimedia REST API</a>. The headline figure is the most recent complete day; the level compares it with the trailing 30-day mean. It measures attention, not legions.</p>"
+  },
+  {
+    "q": "How does the Roman date work?",
+    "a": "<p>Romans counted backwards, inclusively, to three fixed points in each month: the Kalends (1st), the Nones (5th, or 7th in March, May, July and October), and the Ides (13th, or 15th in those same months). So 21 August is <em>ante diem XII Kalendas Septembres</em> — the twelfth day before the Kalends of September. Years are given <em>ab urbe condita</em> (A.U.C.), from Varro's founding date of 753 BC. Consuls are not listed because there have been none since Basilius in AD 541.</p>"
+  },
+  {
+    "q": "Why “historical uptime”?",
+    "a": "<p>Because if a service ran from 21 April 753 BC to 29 May 1453 and has been down ever since, the honest metric is uptime. Rome currently scores about 79% over its lifetime — respectable, but short of four nines, and the incident has been open for more than fifteen centuries without a postmortem.</p>"
+  },
+  {
+    "q": "Who made this?",
+    "a": "<p>A human with a GitHub account and a robot that checks every morning. The source, the data and the update script are on <a href=\"https://github.com/Cidm2000/romanreturn\" rel=\"noopener\">GitHub</a>. Corrections and additions — books, films, resources, dates — are welcome as pull requests; all content lives in plain JSON files under <code>data/</code>.</p>"
+  },
+  {
+    "q": "Is this affiliated with the Roman Empire?",
+    "a": "<p>No. The Roman Empire is not currently accepting affiliations.</p>"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "name": "romanreturn",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Is the Roman Empire back? A daily status check. (No.)",
+  "homepage": "https://cidm2000.github.io/romanreturn/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cidm2000/romanreturn.git"
+  },
+  "scripts": {
+    "test": "node --test scripts/roman.test.mjs",
+    "update": "node scripts/update.mjs",
+    "build": "node scripts/build.mjs",
+    "serve": "npx --yes http-server dist -p 8080 -c-1",
+    "start": "npm run update && npm run build && npm run serve"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}

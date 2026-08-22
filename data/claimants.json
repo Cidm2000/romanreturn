@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Holy Roman Empire",
+    "claim": "Translatio imperii: Charlemagne crowned \"Emperor of the Romans\" by Leo III (800); Otto I (962). Neither holy, nor Roman, nor an empire — Voltaire.",
+    "from": 800,
+    "to": 1806,
+    "end": "Francis II abdicates and dissolves the Empire, 6 August 1806",
+    "status": "ended"
+  },
+  {
+    "name": "Latin Empire of Constantinople",
+    "claim": "Crusader regime installed in the capital after the sack of 1204; recognised by almost nobody east of Venice.",
+    "from": 1204,
+    "to": 1261,
+    "end": "Michael VIII Palaiologos retakes Constantinople, 25 July 1261",
+    "status": "ended"
+  },
+  {
+    "name": "Empire of Trebizond",
+    "claim": "Komnenian splinter state on the Black Sea whose rulers styled themselves \"Emperor and Autocrat of all the East\".",
+    "from": 1204,
+    "to": 1461,
+    "end": "Surrendered to Mehmed II, 15 August 1461",
+    "status": "ended"
+  },
+  {
+    "name": "Ottoman Empire (Kayser-i Rûm)",
+    "claim": "Mehmed II adopted \"Caesar of Rome\" after 1453; the sultans held Constantinople — and the claim — for 469 years.",
+    "from": 1453,
+    "to": 1922,
+    "end": "Sultanate abolished, 1 November 1922",
+    "status": "ended"
+  },
+  {
+    "name": "Palaiologos heirs",
+    "claim": "Andreas Palaiologos sold his title to Charles VIII of France (1494), then willed it to Ferdinand and Isabella (1502). Nobody has used it since.",
+    "from": 1453,
+    "to": 1502,
+    "end": "Claim bequeathed to the Spanish crown and never exercised",
+    "status": "dormant"
+  },
+  {
+    "name": "Tsardom / Empire of Russia (Third Rome)",
+    "claim": "\"Two Romes have fallen, the third stands, and a fourth there shall not be\" (Philotheus of Pskov, c. 1510). \"Tsar\" derives from Caesar.",
+    "from": 1547,
+    "to": 1917,
+    "end": "Nicholas II abdicates, 15 March 1917",
+    "status": "ended"
+  },
+  {
+    "name": "First French Empire",
+    "claim": "Eagle standards, a Senate, a \"King of Rome\" for an heir (1811), and an emperor crowned in a laurel wreath. Strong aesthetic claim.",
+    "from": 1804,
+    "to": 1815,
+    "end": "Waterloo, 18 June 1815; second abdication four days later",
+    "status": "ended"
+  },
+  {
+    "name": "German Empire (Kaiser)",
+    "claim": "\"Kaiser\" is Caesar with a German accent; the Hohenzollerns inherited the Holy Roman vocabulary, not the territory.",
+    "from": 1871,
+    "to": 1918,
+    "end": "Wilhelm II abdicates, 9 November 1918",
+    "status": "ended"
+  },
+  {
+    "name": "Fascist Italy (Terza Roma)",
+    "claim": "Mussolini's \"Third Rome\" rhetoric, fasces on everything, and an \"Emperor of Ethiopia\" (1936). Rome was the capital, which helped the branding.",
+    "from": 1922,
+    "to": 1943,
+    "end": "Mussolini dismissed, 25 July 1943; Italian Republic from 1946",
+    "status": "ended"
+  },
+  {
+    "name": "The Papacy (Holy See)",
+    "claim": "Holds the title Pontifex Maximus, the Latin language, and the postcode. Has never claimed the Empire — merely outlived it.",
+    "from": 380,
+    "to": null,
+    "end": "Ongoing. Not a claim; a tenancy.",
+    "status": "ceremonial"
+  }
+]

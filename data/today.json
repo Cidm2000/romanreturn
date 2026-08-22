@@ -1,0 +1,223 @@
+{
+  "generatedAt": "2026-08-22T02:43:11.638Z",
+  "date": "2026-08-22",
+  "verdict": {
+    "answer": "NO",
+    "latin": "NEGATUR",
+    "tagline": "Checked again this morning. The Senate is still not in session.",
+    "status": "FALLEN"
+  },
+  "roman": {
+    "text": "a.d. XI Kal. Sept.",
+    "full": "ante diem XI Kalendas Septembres",
+    "auc": 2779,
+    "aucRoman": "MMDCCLXXIX",
+    "yearRoman": "MMXXVI",
+    "monthLatin": "Augustus"
+  },
+  "counters": {
+    "daysSinceWest": 566111,
+    "daysSinceEast": 209360,
+    "uptimePct": 79.37,
+    "uptimeWestPct": 44.21,
+    "yearsSinceFounding": 2778
+  },
+  "onThisDay": [],
+  "nextAnniversary": {
+    "month": 8,
+    "day": 24,
+    "year": 79,
+    "title": "Vesuvius erupts (traditional date)",
+    "text": "Pompeii, Herculaneum and Stabiae are buried; Pliny the Elder dies. Some evidence points to an autumn date instead, 24 October.",
+    "tag": "INCIDENT",
+    "wiki": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
+    "inDays": 2
+  },
+  "emperor": {
+    "name": "Alexios I Komnenos",
+    "born": "c. 1057",
+    "reign": "1081–1118",
+    "dynasty": "Komnenian",
+    "line": "Stabilised the Empire after Manzikert and asked the West for mercenaries. Got the First Crusade instead.",
+    "exit": "natural causes",
+    "exitNote": "Died 15 August 1118.",
+    "wiki": "https://en.wikipedia.org/wiki/Alexios_I_Komnenos"
+  },
+  "phrase": {
+    "latin": "Tu regere imperio populos, Romane, memento.",
+    "english": "Remember, Roman, to rule the peoples with your power.",
+    "source": "Virgil, Aeneid 6.851",
+    "note": "Anchises's job description for Rome. The contract has lapsed."
+  },
+  "index": {
+    "ok": true,
+    "stale": false,
+    "asOf": "2026-08-20",
+    "articles": [
+      {
+        "article": "Roman_Empire",
+        "title": "Roman Empire",
+        "latest": 6525,
+        "avg30": 6791
+      },
+      {
+        "article": "Ancient_Rome",
+        "title": "Ancient Rome",
+        "latest": 1603,
+        "avg30": 1693
+      },
+      {
+        "article": "Roman_Republic",
+        "title": "Roman Republic",
+        "latest": 2586,
+        "avg30": 2741
+      },
+      {
+        "article": "Julius_Caesar",
+        "title": "Julius Caesar",
+        "latest": 6954,
+        "avg30": 6700
+      },
+      {
+        "article": "Fall_of_the_Western_Roman_Empire",
+        "title": "Fall of the Western Roman Empire",
+        "latest": 2193,
+        "avg30": 2142
+      },
+      {
+        "article": "Byzantine_Empire",
+        "title": "Byzantine Empire",
+        "latest": 5420,
+        "avg30": 5464
+      }
+    ],
+    "series": [
+      {
+        "date": "2026-07-22",
+        "views": 26485
+      },
+      {
+        "date": "2026-07-23",
+        "views": 32111
+      },
+      {
+        "date": "2026-07-24",
+        "views": 25459
+      },
+      {
+        "date": "2026-07-25",
+        "views": 27158
+      },
+      {
+        "date": "2026-07-26",
+        "views": 28593
+      },
+      {
+        "date": "2026-07-27",
+        "views": 29056
+      },
+      {
+        "date": "2026-07-28",
+        "views": 26776
+      },
+      {
+        "date": "2026-07-29",
+        "views": 27455
+      },
+      {
+        "date": "2026-07-30",
+        "views": 24851
+      },
+      {
+        "date": "2026-07-31",
+        "views": 24704
+      },
+      {
+        "date": "2026-08-01",
+        "views": 25763
+      },
+      {
+        "date": "2026-08-02",
+        "views": 26518
+      },
+      {
+        "date": "2026-08-03",
+        "views": 26352
+      },
+      {
+        "date": "2026-08-04",
+        "views": 24759
+      },
+      {
+        "date": "2026-08-05",
+        "views": 24796
+      },
+      {
+        "date": "2026-08-06",
+        "views": 24846
+      },
+      {
+        "date": "2026-08-07",
+        "views": 23163
+      },
+      {
+        "date": "2026-08-08",
+        "views": 22753
+      },
+      {
+        "date": "2026-08-09",
+        "views": 25267
+      },
+      {
+        "date": "2026-08-10",
+        "views": 25343
+      },
+      {
+        "date": "2026-08-11",
+        "views": 24558
+      },
+      {
+        "date": "2026-08-12",
+        "views": 23582
+      },
+      {
+        "date": "2026-08-13",
+        "views": 24448
+      },
+      {
+        "date": "2026-08-14",
+        "views": 24283
+      },
+      {
+        "date": "2026-08-15",
+        "views": 22800
+      },
+      {
+        "date": "2026-08-16",
+        "views": 24247
+      },
+      {
+        "date": "2026-08-17",
+        "views": 24845
+      },
+      {
+        "date": "2026-08-18",
+        "views": 24678
+      },
+      {
+        "date": "2026-08-19",
+        "views": 24989
+      },
+      {
+        "date": "2026-08-20",
+        "views": 25281
+      }
+    ],
+    "latestTotal": 25281,
+    "avg30Total": 25531,
+    "ratio": 0.99,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
+  },
+  "streak": 1
+}
