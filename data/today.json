@@ -1,101 +1,116 @@
 {
-  "generatedAt": "2026-08-23T06:39:27.855Z",
-  "date": "2026-08-23",
+  "generatedAt": "2026-08-24T06:57:16.991Z",
+  "date": "2026-08-24",
   "verdict": {
     "answer": "NO",
-    "latin": "MINIME",
-    "tagline": "We looked under every laurel. Nothing.",
+    "latin": "NEQUAQUAM",
+    "tagline": "No legions detected on any frontier. The limes remain unmanned.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. X Kal. Sept.",
-    "full": "ante diem X Kalendas Septembres",
+    "text": "a.d. IX Kal. Sept.",
+    "full": "ante diem IX Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566112,
-    "daysSinceEast": 209361,
+    "daysSinceWest": 566113,
+    "daysSinceEast": 209362,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 8,
+      "day": 24,
+      "year": 79,
+      "title": "Vesuvius erupts (traditional date)",
+      "text": "Pompeii, Herculaneum and Stabiae are buried; Pliny the Elder dies. Some evidence points to an autumn date instead, 24 October.",
+      "tag": "INCIDENT",
+      "wiki": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD"
+    },
+    {
+      "month": 8,
+      "day": 24,
+      "year": 410,
+      "title": "Alaric sacks Rome",
+      "text": "The Visigoths enter through the Salarian Gate. The first sack of the city in 800 years; three days of looting.",
+      "tag": "INCIDENT",
+      "wiki": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)"
+    }
+  ],
   "nextAnniversary": {
     "month": 8,
-    "day": 24,
-    "year": 79,
-    "title": "Vesuvius erupts (traditional date)",
-    "text": "Pompeii, Herculaneum and Stabiae are buried; Pliny the Elder dies. Some evidence points to an autumn date instead, 24 October.",
-    "tag": "INCIDENT",
-    "wiki": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD",
-    "inDays": 1
+    "day": 26,
+    "year": 1071,
+    "title": "Battle of Manzikert",
+    "text": "Romanos IV Diogenes is captured by the Seljuks; Anatolia begins to slip away.",
+    "tag": "BATTLE",
+    "wiki": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
+    "inDays": 2
   },
   "emperor": {
-    "name": "Constantine XI Palaiologos",
-    "born": "8 February 1405",
-    "reign": "1449–1453",
-    "dynasty": "Palaiologan",
-    "line": "The last Roman emperor; died defending the Theodosian Walls.",
-    "exit": "killed in battle",
-    "exitNote": "Fell on 29 May 1453; body never conclusively identified. The \"Marble Emperor\" legend says he sleeps until the city is retaken. We check daily.",
-    "wiki": "https://en.wikipedia.org/wiki/Constantine_XI_Palaiologos"
+    "name": "Augustus",
+    "born": "23 September 63 BC",
+    "reign": "27 BC – AD 14",
+    "dynasty": "Julio-Claudian",
+    "line": "The first emperor: found Rome brick and left it marble, and left the Republic in name only.",
+    "exit": "natural causes",
+    "exitNote": "Died at Nola on 19 August AD 14, aged 75. \"Have I played the part well? Then applaud as I exit.\"",
+    "wiki": "https://en.wikipedia.org/wiki/Augustus"
   },
   "phrase": {
-    "latin": "Ubi solitudinem faciunt, pacem appellant.",
-    "english": "They make a desert and call it peace.",
-    "source": "Tacitus, Agricola 30 (speech of Calgacus)",
-    "note": "The Empire, reviewed by a customer."
+    "latin": "Sine ira et studio.",
+    "english": "Without anger or partiality.",
+    "source": "Tacitus, Annals 1.1",
+    "note": "Tacitus's stated method. Results varied."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-22",
+    "asOf": "2026-08-23",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6129,
-        "avg30": 6595
+        "latest": 6180,
+        "avg30": 6574
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1339,
-        "avg30": 1646
+        "latest": 1463,
+        "avg30": 1634
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2379,
-        "avg30": 2686
+        "latest": 2572,
+        "avg30": 2676
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6241,
-        "avg30": 6667
+        "latest": 6479,
+        "avg30": 6669
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 1970,
-        "avg30": 2125
+        "latest": 2135,
+        "avg30": 2130
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 4885,
-        "avg30": 5444
+        "latest": 5360,
+        "avg30": 5436
       }
     ],
     "series": [
-      {
-        "date": "2026-07-24",
-        "views": 25459
-      },
       {
         "date": "2026-07-25",
         "views": 27158
@@ -211,13 +226,17 @@
       {
         "date": "2026-08-22",
         "views": 22943
+      },
+      {
+        "date": "2026-08-23",
+        "views": 24189
       }
     ],
-    "latestTotal": 22943,
-    "avg30Total": 25162,
-    "ratio": 0.91,
+    "latestTotal": 24189,
+    "avg30Total": 25120,
+    "ratio": 0.96,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 2
+  "streak": 3
 }
