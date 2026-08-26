@@ -1,101 +1,107 @@
 {
-  "generatedAt": "2026-08-25T06:45:11.425Z",
-  "date": "2026-08-25",
+  "generatedAt": "2026-08-26T06:48:21.039Z",
+  "date": "2026-08-26",
   "verdict": {
     "answer": "NO",
-    "latin": "NON",
-    "tagline": "The Tiber is unpatrolled and the Forum is a pedestrian zone for tourists.",
+    "latin": "NULLO MODO",
+    "tagline": "Consulship vacant since AD 541. Applications are not being accepted.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VIII Kal. Sept.",
-    "full": "ante diem VIII Kalendas Septembres",
+    "text": "a.d. VII Kal. Sept.",
+    "full": "ante diem VII Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566114,
-    "daysSinceEast": 209363,
+    "daysSinceWest": 566115,
+    "daysSinceEast": 209364,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 8,
+      "day": 26,
+      "year": 1071,
+      "title": "Battle of Manzikert",
+      "text": "Romanos IV Diogenes is captured by the Seljuks; Anatolia begins to slip away.",
+      "tag": "BATTLE",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
+    }
+  ],
   "nextAnniversary": {
     "month": 8,
-    "day": 26,
-    "year": 1071,
-    "title": "Battle of Manzikert",
-    "text": "Romanos IV Diogenes is captured by the Seljuks; Anatolia begins to slip away.",
-    "tag": "BATTLE",
-    "wiki": "https://en.wikipedia.org/wiki/Battle_of_Manzikert",
-    "inDays": 1
+    "day": 31,
+    "year": 12,
+    "title": "Caligula born",
+    "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
+    "tag": "MILESTONE",
+    "wiki": "https://en.wikipedia.org/wiki/Caligula",
+    "inDays": 5
   },
   "emperor": {
-    "name": "Tiberius",
-    "born": "16 November 42 BC",
-    "reign": "AD 14–37",
+    "name": "Caligula",
+    "born": "31 August AD 12",
+    "reign": "AD 37–41",
     "dynasty": "Julio-Claudian",
-    "line": "Capable, gloomy, and eventually absent: he ran the last decade of his reign from Capri.",
-    "exit": "natural causes (disputed)",
-    "exitNote": "Died at Misenum on 16 March 37, aged 77. Rumours of a helpful pillow were never proven.",
-    "wiki": "https://en.wikipedia.org/wiki/Tiberius"
+    "line": "Began popular, ended as the byword for tyranny. The horse-as-consul story is probably a joke he made about the Senate.",
+    "exit": "assassinated",
+    "exitNote": "Stabbed by Praetorian officers led by Cassius Chaerea, 24 January 41.",
+    "wiki": "https://en.wikipedia.org/wiki/Caligula"
   },
   "phrase": {
-    "latin": "Quis custodiet ipsos custodes?",
-    "english": "Who will guard the guards themselves?",
-    "source": "Juvenal, Satires 6.347–348",
-    "note": "Originally about chaperones. Now about everything."
+    "latin": "Quidquid id est, timeo Danaos et dona ferentes.",
+    "english": "Whatever it is, I fear the Greeks even when they bring gifts.",
+    "source": "Virgil, Aeneid 2.49",
+    "note": "Laocoön, regarding a certain horse."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-24",
+    "asOf": "2026-08-25",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6762,
-        "avg30": 6563
+        "latest": 6697,
+        "avg30": 6532
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1748,
-        "avg30": 1631
+        "latest": 1743,
+        "avg30": 1624
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2714,
-        "avg30": 2663
+        "latest": 2545,
+        "avg30": 2640
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6929,
-        "avg30": 6659
+        "latest": 6520,
+        "avg30": 6627
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2466,
-        "avg30": 2141
+        "latest": 2154,
+        "avg30": 2130
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5443,
-        "avg30": 5427
+        "latest": 5874,
+        "avg30": 5430
       }
     ],
     "series": [
-      {
-        "date": "2026-07-26",
-        "views": 28593
-      },
       {
         "date": "2026-07-27",
         "views": 29056
@@ -211,13 +217,17 @@
       {
         "date": "2026-08-24",
         "views": 26062
+      },
+      {
+        "date": "2026-08-25",
+        "views": 25533
       }
     ],
-    "latestTotal": 26062,
-    "avg30Total": 25083,
-    "ratio": 1.04,
+    "latestTotal": 25533,
+    "avg30Total": 24981,
+    "ratio": 1.02,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 4
+  "streak": 5
 }
