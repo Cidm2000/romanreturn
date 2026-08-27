@@ -1,38 +1,28 @@
 {
-  "generatedAt": "2026-08-26T06:48:21.039Z",
-  "date": "2026-08-26",
+  "generatedAt": "2026-08-27T17:22:06.045Z",
+  "date": "2026-08-27",
   "verdict": {
     "answer": "NO",
-    "latin": "NULLO MODO",
-    "tagline": "Consulship vacant since AD 541. Applications are not being accepted.",
+    "latin": "HAUD",
+    "tagline": "All aqueducts report normal pressure. No emperor reports.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VII Kal. Sept.",
-    "full": "ante diem VII Kalendas Septembres",
+    "text": "a.d. VI Kal. Sept.",
+    "full": "ante diem VI Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566115,
-    "daysSinceEast": 209364,
+    "daysSinceWest": 566116,
+    "daysSinceEast": 209365,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [
-    {
-      "month": 8,
-      "day": 26,
-      "year": 1071,
-      "title": "Battle of Manzikert",
-      "text": "Romanos IV Diogenes is captured by the Seljuks; Anatolia begins to slip away.",
-      "tag": "BATTLE",
-      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Manzikert"
-    }
-  ],
+  "onThisDay": [],
   "nextAnniversary": {
     "month": 8,
     "day": 31,
@@ -41,71 +31,67 @@
     "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Caligula",
-    "inDays": 5
+    "inDays": 4
   },
   "emperor": {
-    "name": "Caligula",
-    "born": "31 August AD 12",
-    "reign": "AD 37–41",
+    "name": "Claudius",
+    "born": "1 August 10 BC",
+    "reign": "AD 41–54",
     "dynasty": "Julio-Claudian",
-    "line": "Began popular, ended as the byword for tyranny. The horse-as-consul story is probably a joke he made about the Senate.",
-    "exit": "assassinated",
-    "exitNote": "Stabbed by Praetorian officers led by Cassius Chaerea, 24 January 41.",
-    "wiki": "https://en.wikipedia.org/wiki/Caligula"
+    "line": "The underestimated scholar who conquered Britain, built the port at Ostia, and married badly.",
+    "exit": "poisoned (probably)",
+    "exitNote": "Died 13 October 54, reportedly after a dish of mushrooms arranged by Agrippina.",
+    "wiki": "https://en.wikipedia.org/wiki/Claudius"
   },
   "phrase": {
-    "latin": "Quidquid id est, timeo Danaos et dona ferentes.",
-    "english": "Whatever it is, I fear the Greeks even when they bring gifts.",
-    "source": "Virgil, Aeneid 2.49",
-    "note": "Laocoön, regarding a certain horse."
+    "latin": "Non omnis moriar.",
+    "english": "I shall not wholly die.",
+    "source": "Horace, Odes 3.30",
+    "note": "Correct, as it turns out."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-25",
+    "asOf": "2026-08-26",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6697,
-        "avg30": 6532
+        "latest": 7067,
+        "avg30": 6524
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1743,
-        "avg30": 1624
+        "latest": 1708,
+        "avg30": 1614
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2545,
-        "avg30": 2640
+        "latest": 2634,
+        "avg30": 2623
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6520,
-        "avg30": 6627
+        "latest": 6182,
+        "avg30": 6601
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2154,
-        "avg30": 2130
+        "latest": 2280,
+        "avg30": 2125
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5874,
-        "avg30": 5430
+        "latest": 6310,
+        "avg30": 5399
       }
     ],
     "series": [
-      {
-        "date": "2026-07-27",
-        "views": 29056
-      },
       {
         "date": "2026-07-28",
         "views": 26776
@@ -221,13 +207,17 @@
       {
         "date": "2026-08-25",
         "views": 25533
+      },
+      {
+        "date": "2026-08-26",
+        "views": 26181
       }
     ],
-    "latestTotal": 25533,
-    "avg30Total": 24981,
-    "ratio": 1.02,
+    "latestTotal": 26181,
+    "avg30Total": 24885,
+    "ratio": 1.05,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 5
+  "streak": 6
 }
