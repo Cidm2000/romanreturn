@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-27T17:22:06.045Z",
-  "date": "2026-08-27",
+  "generatedAt": "2026-08-28T18:15:05.110Z",
+  "date": "2026-08-28",
   "verdict": {
     "answer": "NO",
-    "latin": "HAUD",
-    "tagline": "All aqueducts report normal pressure. No emperor reports.",
+    "latin": "NONDUM",
+    "tagline": "Tyrian purple production remains at hobbyist levels.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VI Kal. Sept.",
-    "full": "ante diem VI Kalendas Septembres",
+    "text": "a.d. V Kal. Sept.",
+    "full": "ante diem V Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566116,
-    "daysSinceEast": 209365,
+    "daysSinceWest": 566117,
+    "daysSinceEast": 209366,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Caligula",
-    "inDays": 4
+    "inDays": 3
   },
   "emperor": {
-    "name": "Claudius",
-    "born": "1 August 10 BC",
-    "reign": "AD 41–54",
+    "name": "Nero",
+    "born": "15 December AD 37",
+    "reign": "AD 54–68",
     "dynasty": "Julio-Claudian",
-    "line": "The underestimated scholar who conquered Britain, built the port at Ostia, and married badly.",
-    "exit": "poisoned (probably)",
-    "exitNote": "Died 13 October 54, reportedly after a dish of mushrooms arranged by Agrippina.",
-    "wiki": "https://en.wikipedia.org/wiki/Claudius"
+    "line": "Artist, matricide, builder of the Golden House; the last of the Julio-Claudians.",
+    "exit": "suicide",
+    "exitNote": "Declared a public enemy by the Senate; stabbed himself, with assistance, on 9 June 68. \"Qualis artifex pereo.\"",
+    "wiki": "https://en.wikipedia.org/wiki/Nero"
   },
   "phrase": {
-    "latin": "Non omnis moriar.",
-    "english": "I shall not wholly die.",
-    "source": "Horace, Odes 3.30",
-    "note": "Correct, as it turns out."
+    "latin": "Exegi monumentum aere perennius.",
+    "english": "I have built a monument more lasting than bronze.",
+    "source": "Horace, Odes 3.30.1",
+    "note": "The poems outlasted the bronze — and the Empire."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-26",
+    "asOf": "2026-08-27",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7067,
-        "avg30": 6524
+        "latest": 6324,
+        "avg30": 6501
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1708,
-        "avg30": 1614
+        "latest": 1704,
+        "avg30": 1608
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2634,
-        "avg30": 2623
+        "latest": 2464,
+        "avg30": 2604
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6182,
-        "avg30": 6601
+        "latest": 6051,
+        "avg30": 6566
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2280,
-        "avg30": 2125
+        "latest": 2226,
+        "avg30": 2124
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 6310,
-        "avg30": 5399
+        "latest": 5182,
+        "avg30": 5388
       }
     ],
     "series": [
-      {
-        "date": "2026-07-28",
-        "views": 26776
-      },
       {
         "date": "2026-07-29",
         "views": 27455
@@ -211,13 +207,17 @@
       {
         "date": "2026-08-26",
         "views": 26181
+      },
+      {
+        "date": "2026-08-27",
+        "views": 23951
       }
     ],
-    "latestTotal": 26181,
-    "avg30Total": 24885,
-    "ratio": 1.05,
+    "latestTotal": 23951,
+    "avg30Total": 24791,
+    "ratio": 0.97,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 6
+  "streak": 7
 }
