@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-08-28T18:15:05.110Z",
-  "date": "2026-08-28",
+  "generatedAt": "2026-08-29T12:22:58.690Z",
+  "date": "2026-08-29",
   "verdict": {
     "answer": "NO",
-    "latin": "NONDUM",
-    "tagline": "Tyrian purple production remains at hobbyist levels.",
+    "latin": "NEGATUR",
+    "tagline": "Zero triumphs scheduled. The Via Sacra is open to foot traffic.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. V Kal. Sept.",
-    "full": "ante diem V Kalendas Septembres",
+    "text": "a.d. IV Kal. Sept.",
+    "full": "ante diem IV Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566117,
-    "daysSinceEast": 209366,
+    "daysSinceWest": 566118,
+    "daysSinceEast": 209367,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Caligula",
-    "inDays": 3
+    "inDays": 2
   },
   "emperor": {
-    "name": "Nero",
-    "born": "15 December AD 37",
-    "reign": "AD 54–68",
-    "dynasty": "Julio-Claudian",
-    "line": "Artist, matricide, builder of the Golden House; the last of the Julio-Claudians.",
-    "exit": "suicide",
-    "exitNote": "Declared a public enemy by the Senate; stabbed himself, with assistance, on 9 June 68. \"Qualis artifex pereo.\"",
-    "wiki": "https://en.wikipedia.org/wiki/Nero"
+    "name": "Vespasian",
+    "born": "17 November AD 9",
+    "reign": "AD 69–79",
+    "dynasty": "Flavian",
+    "line": "Restored order after the Year of the Four Emperors, began the Colosseum, and taxed urine.",
+    "exit": "natural causes",
+    "exitNote": "Died 23 June 79. Allegedly: \"Vae, puto deus fio\" — \"Dear me, I think I'm becoming a god.\"",
+    "wiki": "https://en.wikipedia.org/wiki/Vespasian"
   },
   "phrase": {
-    "latin": "Exegi monumentum aere perennius.",
-    "english": "I have built a monument more lasting than bronze.",
-    "source": "Horace, Odes 3.30.1",
-    "note": "The poems outlasted the bronze — and the Empire."
+    "latin": "Aequam memento rebus in arduis servare mentem.",
+    "english": "Remember to keep a level head in hard times.",
+    "source": "Horace, Odes 2.3",
+    "note": "Imperial Stoicism for busy people."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-27",
+    "asOf": "2026-08-28",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6324,
-        "avg30": 6501
+        "latest": 6358,
+        "avg30": 6477
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1704,
-        "avg30": 1608
+        "latest": 1650,
+        "avg30": 1602
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2464,
-        "avg30": 2604
+        "latest": 2638,
+        "avg30": 2595
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6051,
-        "avg30": 6566
+        "latest": 5980,
+        "avg30": 6499
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2226,
-        "avg30": 2124
+        "latest": 2216,
+        "avg30": 2127
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5182,
-        "avg30": 5388
+        "latest": 5177,
+        "avg30": 5378
       }
     ],
     "series": [
-      {
-        "date": "2026-07-29",
-        "views": 27455
-      },
       {
         "date": "2026-07-30",
         "views": 24851
@@ -211,13 +207,17 @@
       {
         "date": "2026-08-27",
         "views": 23951
+      },
+      {
+        "date": "2026-08-28",
+        "views": 24019
       }
     ],
-    "latestTotal": 23951,
-    "avg30Total": 24791,
+    "latestTotal": 24019,
+    "avg30Total": 24677,
     "ratio": 0.97,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 7
+  "streak": 8
 }
