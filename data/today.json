@@ -1,101 +1,116 @@
 {
-  "generatedAt": "2026-08-30T11:21:32.909Z",
-  "date": "2026-08-30",
+  "generatedAt": "2026-08-31T12:50:40.517Z",
+  "date": "2026-08-31",
   "verdict": {
     "answer": "NO",
-    "latin": "MINIME",
-    "tagline": "Mare Nostrum is currently everybody's. Which is to say nobody's.",
+    "latin": "NEQUAQUAM",
+    "tagline": "The Praetorian Guard has not auctioned anything today.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. III Kal. Sept.",
-    "full": "ante diem III Kalendas Septembres",
+    "text": "prid. Kal. Sept.",
+    "full": "pridie Kalendas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "Augustus"
   },
   "counters": {
-    "daysSinceWest": 566119,
-    "daysSinceEast": 209368,
+    "daysSinceWest": 566120,
+    "daysSinceEast": 209369,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 8,
+      "day": 31,
+      "year": 12,
+      "title": "Caligula born",
+      "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
+      "tag": "MILESTONE",
+      "wiki": "https://en.wikipedia.org/wiki/Caligula"
+    },
+    {
+      "month": 8,
+      "day": 31,
+      "year": 161,
+      "title": "Commodus born",
+      "text": "At Lanuvium, to Marcus Aurelius and Faustina. Future gladiator.",
+      "tag": "MILESTONE",
+      "wiki": "https://en.wikipedia.org/wiki/Commodus"
+    }
+  ],
   "nextAnniversary": {
-    "month": 8,
-    "day": 31,
-    "year": 12,
-    "title": "Caligula born",
-    "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
-    "tag": "MILESTONE",
-    "wiki": "https://en.wikipedia.org/wiki/Caligula",
-    "inDays": 1
+    "month": 9,
+    "day": 2,
+    "year": -31,
+    "title": "Battle of Actium",
+    "text": "Octavian and Agrippa defeat Antony and Cleopatra off western Greece. The Republic's last civil war is effectively over.",
+    "tag": "BATTLE",
+    "wiki": "https://en.wikipedia.org/wiki/Battle_of_Actium",
+    "inDays": 2
   },
   "emperor": {
-    "name": "Titus",
-    "born": "30 December AD 39",
-    "reign": "AD 79–81",
+    "name": "Domitian",
+    "born": "24 October AD 51",
+    "reign": "AD 81–96",
     "dynasty": "Flavian",
-    "line": "Took Jerusalem in 70, opened the Colosseum in 80, handled Vesuvius and a fire; died young and beloved.",
-    "exit": "natural causes (fever)",
-    "exitNote": "Died 13 September 81 after just over two years. Domitian succeeded.",
-    "wiki": "https://en.wikipedia.org/wiki/Titus"
+    "line": "An efficient autocrat loathed by the Senate, who rebuilt Rome and stabilised the coinage.",
+    "exit": "assassinated",
+    "exitNote": "Stabbed by court officials on 18 September 96. The Senate voted to erase his memory.",
+    "wiki": "https://en.wikipedia.org/wiki/Domitian"
   },
   "phrase": {
-    "latin": "Mens sana in corpore sano.",
-    "english": "A sound mind in a sound body.",
-    "source": "Juvenal, Satires 10.356",
-    "note": "Juvenal's suggestion for what you should actually be praying for."
+    "latin": "Imperium sine fine dedi.",
+    "english": "I have granted them empire without end.",
+    "source": "Jupiter, in Virgil, Aeneid 1.279",
+    "note": "Terms and conditions applied. See: 476, 1453."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-29",
+    "asOf": "2026-08-30",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 5841,
-        "avg30": 6463
+        "latest": 6283,
+        "avg30": 6457
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1257,
-        "avg30": 1587
+        "latest": 1356,
+        "avg30": 1579
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2326,
-        "avg30": 2582
+        "latest": 2336,
+        "avg30": 2574
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 5612,
-        "avg30": 6464
+        "latest": 6257,
+        "avg30": 6452
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 1801,
+        "latest": 2049,
         "avg30": 2116
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 4941,
-        "avg30": 5361
+        "latest": 5101,
+        "avg30": 5352
       }
     ],
     "series": [
-      {
-        "date": "2026-07-31",
-        "views": 24704
-      },
       {
         "date": "2026-08-01",
         "views": 25763
@@ -211,13 +226,17 @@
       {
         "date": "2026-08-29",
         "views": 21778
+      },
+      {
+        "date": "2026-08-30",
+        "views": 23382
       }
     ],
-    "latestTotal": 21778,
-    "avg30Total": 24574,
-    "ratio": 0.89,
-    "level": "DORMANT",
-    "levelText": "Unusually few people are thinking about Rome. Suspicious."
+    "latestTotal": 23382,
+    "avg30Total": 24530,
+    "ratio": 0.95,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 9
+  "streak": 10
 }
