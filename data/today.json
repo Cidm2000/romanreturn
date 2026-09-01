@@ -1,47 +1,28 @@
 {
-  "generatedAt": "2026-08-31T12:50:40.517Z",
-  "date": "2026-08-31",
+  "generatedAt": "2026-09-01T11:11:10.777Z",
+  "date": "2026-09-01",
   "verdict": {
     "answer": "NO",
-    "latin": "NEQUAQUAM",
-    "tagline": "The Praetorian Guard has not auctioned anything today.",
+    "latin": "NON",
+    "tagline": "Latin remains in maintenance mode (Vatican City, pop. ~800).",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "prid. Kal. Sept.",
-    "full": "pridie Kalendas Septembres",
+    "text": "Kal. Sept.",
+    "full": "Kalendis Septembribus",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
-    "monthLatin": "Augustus"
+    "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566120,
-    "daysSinceEast": 209369,
+    "daysSinceWest": 566121,
+    "daysSinceEast": 209370,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [
-    {
-      "month": 8,
-      "day": 31,
-      "year": 12,
-      "title": "Caligula born",
-      "text": "Gaius Julius Caesar Germanicus, nicknamed \"little boot\" by his father's soldiers.",
-      "tag": "MILESTONE",
-      "wiki": "https://en.wikipedia.org/wiki/Caligula"
-    },
-    {
-      "month": 8,
-      "day": 31,
-      "year": 161,
-      "title": "Commodus born",
-      "text": "At Lanuvium, to Marcus Aurelius and Faustina. Future gladiator.",
-      "tag": "MILESTONE",
-      "wiki": "https://en.wikipedia.org/wiki/Commodus"
-    }
-  ],
+  "onThisDay": [],
   "nextAnniversary": {
     "month": 9,
     "day": 2,
@@ -50,71 +31,67 @@
     "text": "Octavian and Agrippa defeat Antony and Cleopatra off western Greece. The Republic's last civil war is effectively over.",
     "tag": "BATTLE",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_Actium",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Domitian",
-    "born": "24 October AD 51",
-    "reign": "AD 81–96",
-    "dynasty": "Flavian",
-    "line": "An efficient autocrat loathed by the Senate, who rebuilt Rome and stabilised the coinage.",
-    "exit": "assassinated",
-    "exitNote": "Stabbed by court officials on 18 September 96. The Senate voted to erase his memory.",
-    "wiki": "https://en.wikipedia.org/wiki/Domitian"
+    "name": "Nerva",
+    "born": "8 November AD 30",
+    "reign": "AD 96–98",
+    "dynasty": "Nerva–Antonine",
+    "line": "The elderly senator who started the run of \"Five Good Emperors\" by adopting Trajan.",
+    "exit": "natural causes",
+    "exitNote": "Died 27 January 98 after sixteen months in office.",
+    "wiki": "https://en.wikipedia.org/wiki/Nerva"
   },
   "phrase": {
-    "latin": "Imperium sine fine dedi.",
-    "english": "I have granted them empire without end.",
-    "source": "Jupiter, in Virgil, Aeneid 1.279",
-    "note": "Terms and conditions applied. See: 476, 1453."
+    "latin": "Gutta cavat lapidem.",
+    "english": "The drop hollows the stone.",
+    "source": "Ovid, Epistulae ex Ponto 4.10.5",
+    "note": "Also this site's operating principle: one check a day, indefinitely."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-30",
+    "asOf": "2026-08-31",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6283,
-        "avg30": 6457
+        "latest": 6690,
+        "avg30": 6462
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1356,
+        "latest": 1659,
         "avg30": 1579
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2336,
-        "avg30": 2574
+        "latest": 2672,
+        "avg30": 2576
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6257,
-        "avg30": 6452
+        "latest": 6715,
+        "avg30": 6464
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2049,
-        "avg30": 2116
+        "latest": 2321,
+        "avg30": 2121
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5101,
-        "avg30": 5352
+        "latest": 5394,
+        "avg30": 5317
       }
     ],
     "series": [
-      {
-        "date": "2026-08-01",
-        "views": 25763
-      },
       {
         "date": "2026-08-02",
         "views": 26518
@@ -230,13 +207,17 @@
       {
         "date": "2026-08-30",
         "views": 23382
+      },
+      {
+        "date": "2026-08-31",
+        "views": 25451
       }
     ],
-    "latestTotal": 23382,
-    "avg30Total": 24530,
-    "ratio": 0.95,
+    "latestTotal": 25451,
+    "avg30Total": 24520,
+    "ratio": 1.04,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 10
+  "streak": 11
 }
