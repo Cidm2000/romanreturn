@@ -1,101 +1,107 @@
 {
-  "generatedAt": "2026-09-01T11:11:10.777Z",
-  "date": "2026-09-01",
+  "generatedAt": "2026-09-02T10:44:34.075Z",
+  "date": "2026-09-02",
   "verdict": {
     "answer": "NO",
-    "latin": "NON",
-    "tagline": "Latin remains in maintenance mode (Vatican City, pop. ~800).",
+    "latin": "NULLO MODO",
+    "tagline": "Bread: available. Circuses: streaming only.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "Kal. Sept.",
-    "full": "Kalendis Septembribus",
+    "text": "a.d. IV Non. Sept.",
+    "full": "ante diem IV Nonas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566121,
-    "daysSinceEast": 209370,
+    "daysSinceWest": 566122,
+    "daysSinceEast": 209371,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 9,
+      "day": 2,
+      "year": -31,
+      "title": "Battle of Actium",
+      "text": "Octavian and Agrippa defeat Antony and Cleopatra off western Greece. The Republic's last civil war is effectively over.",
+      "tag": "BATTLE",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+    }
+  ],
   "nextAnniversary": {
     "month": 9,
-    "day": 2,
-    "year": -31,
-    "title": "Battle of Actium",
-    "text": "Octavian and Agrippa defeat Antony and Cleopatra off western Greece. The Republic's last civil war is effectively over.",
-    "tag": "BATTLE",
-    "wiki": "https://en.wikipedia.org/wiki/Battle_of_Actium",
-    "inDays": 1
+    "day": 4,
+    "year": 476,
+    "title": "Romulus Augustulus deposed",
+    "text": "Odoacer removes the last Western emperor and sends the imperial regalia to Constantinople. Day 1 of this site's main counter.",
+    "tag": "FALL",
+    "wiki": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
+    "inDays": 2
   },
   "emperor": {
-    "name": "Nerva",
-    "born": "8 November AD 30",
-    "reign": "AD 96–98",
+    "name": "Trajan",
+    "born": "18 September AD 53",
+    "reign": "AD 98–117",
     "dynasty": "Nerva–Antonine",
-    "line": "The elderly senator who started the run of \"Five Good Emperors\" by adopting Trajan.",
-    "exit": "natural causes",
-    "exitNote": "Died 27 January 98 after sixteen months in office.",
-    "wiki": "https://en.wikipedia.org/wiki/Nerva"
+    "line": "Optimus princeps: conquered Dacia, built the Forum and the Column, and took the Empire to its greatest extent.",
+    "exit": "natural causes (stroke)",
+    "exitNote": "Died at Selinus in Cilicia in August 117, on his way home from Parthia.",
+    "wiki": "https://en.wikipedia.org/wiki/Trajan"
   },
   "phrase": {
-    "latin": "Gutta cavat lapidem.",
-    "english": "The drop hollows the stone.",
-    "source": "Ovid, Epistulae ex Ponto 4.10.5",
-    "note": "Also this site's operating principle: one check a day, indefinitely."
+    "latin": "Hannibal ad portas.",
+    "english": "Hannibal is at the gates.",
+    "source": "Proverbial; Cicero, Philippics 1.11; Livy 23.16",
+    "note": "Roman parents used it to frighten children. It mostly worked."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-08-31",
+    "asOf": "2026-09-01",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6690,
-        "avg30": 6462
+        "latest": 6865,
+        "avg30": 6459
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1659,
-        "avg30": 1579
+        "latest": 1657,
+        "avg30": 1577
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2672,
-        "avg30": 2576
+        "latest": 2655,
+        "avg30": 2570
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6715,
-        "avg30": 6464
+        "latest": 6654,
+        "avg30": 6455
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2321,
+        "latest": 2301,
         "avg30": 2121
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5394,
-        "avg30": 5317
+        "latest": 5256,
+        "avg30": 5300
       }
     ],
     "series": [
-      {
-        "date": "2026-08-02",
-        "views": 26518
-      },
       {
         "date": "2026-08-03",
         "views": 26352
@@ -211,13 +217,17 @@
       {
         "date": "2026-08-31",
         "views": 25451
+      },
+      {
+        "date": "2026-09-01",
+        "views": 25388
       }
     ],
-    "latestTotal": 25451,
-    "avg30Total": 24520,
+    "latestTotal": 25388,
+    "avg30Total": 24482,
     "ratio": 1.04,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 11
+  "streak": 12
 }
