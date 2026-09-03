@@ -1,38 +1,28 @@
 {
-  "generatedAt": "2026-09-02T10:44:34.075Z",
-  "date": "2026-09-02",
+  "generatedAt": "2026-09-03T10:44:48.329Z",
+  "date": "2026-09-03",
   "verdict": {
     "answer": "NO",
-    "latin": "NULLO MODO",
-    "tagline": "Bread: available. Circuses: streaming only.",
+    "latin": "HAUD",
+    "tagline": "The eagle standards are in museums, behind glass, which is not where you keep them if you are back.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. IV Non. Sept.",
-    "full": "ante diem IV Nonas Septembres",
+    "text": "a.d. III Non. Sept.",
+    "full": "ante diem III Nonas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566122,
-    "daysSinceEast": 209371,
+    "daysSinceWest": 566123,
+    "daysSinceEast": 209372,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [
-    {
-      "month": 9,
-      "day": 2,
-      "year": -31,
-      "title": "Battle of Actium",
-      "text": "Octavian and Agrippa defeat Antony and Cleopatra off western Greece. The Republic's last civil war is effectively over.",
-      "tag": "BATTLE",
-      "wiki": "https://en.wikipedia.org/wiki/Battle_of_Actium"
-    }
-  ],
+  "onThisDay": [],
   "nextAnniversary": {
     "month": 9,
     "day": 4,
@@ -41,71 +31,67 @@
     "text": "Odoacer removes the last Western emperor and sends the imperial regalia to Constantinople. Day 1 of this site's main counter.",
     "tag": "FALL",
     "wiki": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Trajan",
-    "born": "18 September AD 53",
-    "reign": "AD 98–117",
+    "name": "Hadrian",
+    "born": "24 January AD 76",
+    "reign": "AD 117–138",
     "dynasty": "Nerva–Antonine",
-    "line": "Optimus princeps: conquered Dacia, built the Forum and the Column, and took the Empire to its greatest extent.",
-    "exit": "natural causes (stroke)",
-    "exitNote": "Died at Selinus in Cilicia in August 117, on his way home from Parthia.",
-    "wiki": "https://en.wikipedia.org/wiki/Trajan"
+    "line": "Consolidator, traveller, builder of the Wall and the Pantheon. Wore a beard; the Senate never forgave him.",
+    "exit": "natural causes",
+    "exitNote": "Died at Baiae on 10 July 138 after a long illness. \"Animula vagula blandula…\"",
+    "wiki": "https://en.wikipedia.org/wiki/Hadrian"
   },
   "phrase": {
-    "latin": "Hannibal ad portas.",
-    "english": "Hannibal is at the gates.",
-    "source": "Proverbial; Cicero, Philippics 1.11; Livy 23.16",
-    "note": "Roman parents used it to frighten children. It mostly worked."
+    "latin": "Roma aeterna.",
+    "english": "Eternal Rome.",
+    "source": "Tibullus 2.5.23; coin legends from Hadrian onwards",
+    "note": "The city, yes. The Empire, see above."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-01",
+    "asOf": "2026-09-02",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6865,
-        "avg30": 6459
+        "latest": 6510,
+        "avg30": 6442
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1657,
-        "avg30": 1577
+        "latest": 1687,
+        "avg30": 1574
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2655,
-        "avg30": 2570
+        "latest": 2582,
+        "avg30": 2564
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6654,
-        "avg30": 6455
+        "latest": 7002,
+        "avg30": 6458
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2301,
+        "latest": 2295,
         "avg30": 2121
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5256,
-        "avg30": 5300
+        "latest": 5368,
+        "avg30": 5293
       }
     ],
     "series": [
-      {
-        "date": "2026-08-03",
-        "views": 26352
-      },
       {
         "date": "2026-08-04",
         "views": 24759
@@ -221,13 +207,17 @@
       {
         "date": "2026-09-01",
         "views": 25388
+      },
+      {
+        "date": "2026-09-02",
+        "views": 25444
       }
     ],
-    "latestTotal": 25388,
-    "avg30Total": 24482,
+    "latestTotal": 25444,
+    "avg30Total": 24452,
     "ratio": 1.04,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 12
+  "streak": 13
 }
