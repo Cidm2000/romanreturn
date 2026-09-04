@@ -1,101 +1,107 @@
 {
-  "generatedAt": "2026-09-03T10:44:48.329Z",
-  "date": "2026-09-03",
+  "generatedAt": "2026-09-04T10:42:13.227Z",
+  "date": "2026-09-04",
   "verdict": {
     "answer": "NO",
-    "latin": "HAUD",
-    "tagline": "The eagle standards are in museums, behind glass, which is not where you keep them if you are back.",
+    "latin": "NONDUM",
+    "tagline": "Status unchanged. It has been unchanged for a while.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. III Non. Sept.",
-    "full": "ante diem III Nonas Septembres",
+    "text": "prid. Non. Sept.",
+    "full": "pridie Nonas Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566123,
-    "daysSinceEast": 209372,
+    "daysSinceWest": 566124,
+    "daysSinceEast": 209373,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 9,
+      "day": 4,
+      "year": 476,
+      "title": "Romulus Augustulus deposed",
+      "text": "Odoacer removes the last Western emperor and sends the imperial regalia to Constantinople. Day 1 of this site's main counter.",
+      "tag": "FALL",
+      "wiki": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+    }
+  ],
   "nextAnniversary": {
     "month": 9,
-    "day": 4,
-    "year": 476,
-    "title": "Romulus Augustulus deposed",
-    "text": "Odoacer removes the last Western emperor and sends the imperial regalia to Constantinople. Day 1 of this site's main counter.",
-    "tag": "FALL",
-    "wiki": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
-    "inDays": 1
+    "day": 9,
+    "year": 9,
+    "title": "Battle of the Teutoburg Forest (9–11 September)",
+    "text": "Arminius destroys three legions under Varus. Augustus: \"Quintili Vare, legiones redde!\"",
+    "tag": "BATTLE",
+    "wiki": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
+    "inDays": 5
   },
   "emperor": {
-    "name": "Hadrian",
-    "born": "24 January AD 76",
-    "reign": "AD 117–138",
+    "name": "Antoninus Pius",
+    "born": "19 September AD 86",
+    "reign": "AD 138–161",
     "dynasty": "Nerva–Antonine",
-    "line": "Consolidator, traveller, builder of the Wall and the Pantheon. Wore a beard; the Senate never forgave him.",
+    "line": "Twenty-three years of peace, a budget surplus, and almost no travel. The Empire's quietest reign.",
     "exit": "natural causes",
-    "exitNote": "Died at Baiae on 10 July 138 after a long illness. \"Animula vagula blandula…\"",
-    "wiki": "https://en.wikipedia.org/wiki/Hadrian"
+    "exitNote": "Died at Lorium on 7 March 161. His last watchword to the guard: \"aequanimitas\".",
+    "wiki": "https://en.wikipedia.org/wiki/Antoninus_Pius"
   },
   "phrase": {
-    "latin": "Roma aeterna.",
-    "english": "Eternal Rome.",
-    "source": "Tibullus 2.5.23; coin legends from Hadrian onwards",
-    "note": "The city, yes. The Empire, see above."
+    "latin": "Sic transit gloria mundi.",
+    "english": "Thus passes the glory of the world.",
+    "source": "Medieval (papal coronation rite, after Thomas à Kempis) — not classical",
+    "note": "Not Roman, but it is about Rome in spirit, so it stays."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-02",
+    "asOf": "2026-09-03",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6510,
-        "avg30": 6442
+        "latest": 6874,
+        "avg30": 6452
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1687,
-        "avg30": 1574
+        "latest": 1706,
+        "avg30": 1576
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2582,
-        "avg30": 2564
+        "latest": 3620,
+        "avg30": 2592
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 7002,
-        "avg30": 6458
+        "latest": 7267,
+        "avg30": 6483
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2295,
-        "avg30": 2121
+        "latest": 2337,
+        "avg30": 2130
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5368,
+        "latest": 5165,
         "avg30": 5293
       }
     ],
     "series": [
-      {
-        "date": "2026-08-04",
-        "views": 24759
-      },
       {
         "date": "2026-08-05",
         "views": 24796
@@ -211,13 +217,17 @@
       {
         "date": "2026-09-02",
         "views": 25444
+      },
+      {
+        "date": "2026-09-03",
+        "views": 26969
       }
     ],
-    "latestTotal": 25444,
-    "avg30Total": 24452,
-    "ratio": 1.04,
-    "level": "NOMINAL",
-    "levelText": "A normal day of thinking about Rome."
+    "latestTotal": 26969,
+    "avg30Total": 24525,
+    "ratio": 1.1,
+    "level": "ELEVATED",
+    "levelText": "More people than usual are thinking about Rome."
   },
-  "streak": 13
+  "streak": 14
 }
