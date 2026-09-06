@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-05T10:01:43.435Z",
-  "date": "2026-09-05",
+  "generatedAt": "2026-09-06T10:21:28.802Z",
+  "date": "2026-09-06",
   "verdict": {
     "answer": "NO",
-    "latin": "NEGATUR",
-    "tagline": "Barbarians at the gates: none. Gates: also none.",
+    "latin": "MINIME",
+    "tagline": "Rome was not built in a day. It was also not rebuilt today.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "Non. Sept.",
-    "full": "Nonis Septembribus",
+    "text": "a.d. VIII Id. Sept.",
+    "full": "ante diem VIII Idus Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566125,
-    "daysSinceEast": 209374,
+    "daysSinceWest": 566126,
+    "daysSinceEast": 209375,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Arminius destroys three legions under Varus. Augustus: \"Quintili Vare, legiones redde!\"",
     "tag": "BATTLE",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
-    "inDays": 4
+    "inDays": 3
   },
   "emperor": {
-    "name": "Marcus Aurelius",
-    "born": "26 April AD 121",
-    "reign": "AD 161–180",
+    "name": "Commodus",
+    "born": "31 August AD 161",
+    "reign": "AD 180–192",
     "dynasty": "Nerva–Antonine",
-    "line": "The Stoic philosopher who spent his reign on the Danube fighting the Marcomanni and writing the Meditations.",
-    "exit": "natural causes (possibly plague)",
-    "exitNote": "Died near Sirmium or at Vindobona on 17 March 180. Then Commodus happened.",
-    "wiki": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+    "line": "The gladiator-emperor who renamed Rome after himself. Gladiator (2000) got the vibe, not the facts.",
+    "exit": "assassinated",
+    "exitNote": "Strangled in his bath by the wrestler Narcissus on 31 December 192.",
+    "wiki": "https://en.wikipedia.org/wiki/Commodus"
   },
   "phrase": {
-    "latin": "Caesar non supra grammaticos.",
-    "english": "Caesar is not above the grammarians.",
-    "source": "Proverbial since the Council of Constance (1414); the idea goes back to Suetonius, De Grammaticis 22",
-    "note": "Tiberius, corrected on a word: \"You can give citizenship to men, Caesar, but not to words.\""
+    "latin": "Alea iacta est.",
+    "english": "The die is cast.",
+    "source": "Julius Caesar at the Rubicon, 49 BC (Suetonius, Divus Iulius 32)",
+    "note": "Probably said in Greek, quoting the comic poet Menander: ἀνερρίφθω κύβος."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-04",
+    "asOf": "2026-09-05",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6667,
-        "avg30": 6454
+        "latest": 5918,
+        "avg30": 6433
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1648,
-        "avg30": 1578
+        "latest": 1386,
+        "avg30": 1565
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2583,
-        "avg30": 2592
+        "latest": 2223,
+        "avg30": 2579
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6583,
-        "avg30": 6477
+        "latest": 6026,
+        "avg30": 6452
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 7619,
+        "latest": 2182,
         "avg30": 2317
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5239,
-        "avg30": 5294
+        "latest": 4728,
+        "avg30": 5285
       }
     ],
     "series": [
-      {
-        "date": "2026-08-06",
-        "views": 24846
-      },
       {
         "date": "2026-08-07",
         "views": 23163
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-04",
         "views": 30339
+      },
+      {
+        "date": "2026-09-05",
+        "views": 22463
       }
     ],
-    "latestTotal": 30339,
-    "avg30Total": 24710,
-    "ratio": 1.23,
-    "level": "ELEVATED",
-    "levelText": "More people than usual are thinking about Rome."
+    "latestTotal": 22463,
+    "avg30Total": 24631,
+    "ratio": 0.91,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 15
+  "streak": 16
 }
