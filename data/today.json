@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-07T11:42:26.198Z",
-  "date": "2026-09-07",
+  "generatedAt": "2026-09-08T10:41:05.331Z",
+  "date": "2026-09-08",
   "verdict": {
     "answer": "NO",
-    "latin": "NEQUAQUAM",
-    "tagline": "The Colosseum is at partial capacity and zero lions.",
+    "latin": "NON",
+    "tagline": "Carthage: still delenda'd (146 BC). No further action required.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VII Id. Sept.",
-    "full": "ante diem VII Idus Septembres",
+    "text": "a.d. VI Id. Sept.",
+    "full": "ante diem VI Idus Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566127,
-    "daysSinceEast": 209376,
+    "daysSinceWest": 566128,
+    "daysSinceEast": 209377,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Arminius destroys three legions under Varus. Augustus: \"Quintili Vare, legiones redde!\"",
     "tag": "BATTLE",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Pertinax",
-    "born": "1 August AD 126",
-    "reign": "AD 193",
-    "dynasty": "Year of the Five Emperors",
-    "line": "A reforming emperor for 86 days.",
-    "exit": "assassinated",
-    "exitNote": "Killed by the Praetorians on 28 March 193, who then auctioned the Empire to Didius Julianus.",
-    "wiki": "https://en.wikipedia.org/wiki/Pertinax"
+    "name": "Septimius Severus",
+    "born": "11 April AD 145",
+    "reign": "AD 193–211",
+    "dynasty": "Severan",
+    "line": "The African-born soldier-emperor. \"Enrich the soldiers and scorn everyone else.\"",
+    "exit": "natural causes",
+    "exitNote": "Died at Eboracum (York) on 4 February 211, on campaign in Britain.",
+    "wiki": "https://en.wikipedia.org/wiki/Septimius_Severus"
   },
   "phrase": {
-    "latin": "Veni, vidi, vici.",
-    "english": "I came, I saw, I conquered.",
-    "source": "Caesar's dispatch after Zela, 47 BC (Suetonius, Divus Iulius 37)",
-    "note": "Three words, one campaign. Peak efficiency."
+    "latin": "Carthago delenda est.",
+    "english": "Carthage must be destroyed.",
+    "source": "Cato the Elder, ending every speech (Plutarch, Cato Maior 27)",
+    "note": "Status: completed, 146 BC."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-06",
+    "asOf": "2026-09-07",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6472,
-        "avg30": 6450
+        "latest": 6545,
+        "avg30": 6474
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1343,
-        "avg30": 1560
+        "latest": 1680,
+        "avg30": 1569
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2349,
-        "avg30": 2573
+        "latest": 2529,
+        "avg30": 2576
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6433,
-        "avg30": 6461
+        "latest": 6720,
+        "avg30": 6476
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2013,
-        "avg30": 2316
+        "latest": 2123,
+        "avg30": 2324
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5065,
-        "avg30": 5288
+        "latest": 5177,
+        "avg30": 5296
       }
     ],
     "series": [
-      {
-        "date": "2026-08-08",
-        "views": 22753
-      },
       {
         "date": "2026-08-09",
         "views": 25267
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-06",
         "views": 23675
+      },
+      {
+        "date": "2026-09-07",
+        "views": 24774
       }
     ],
-    "latestTotal": 23675,
-    "avg30Total": 24648,
-    "ratio": 0.96,
+    "latestTotal": 24774,
+    "avg30Total": 24715,
+    "ratio": 1,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 17
+  "streak": 18
 }
