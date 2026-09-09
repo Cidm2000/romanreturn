@@ -1,101 +1,116 @@
 {
-  "generatedAt": "2026-09-08T10:41:05.331Z",
-  "date": "2026-09-08",
+  "generatedAt": "2026-09-09T10:50:22.685Z",
+  "date": "2026-09-09",
   "verdict": {
     "answer": "NO",
-    "latin": "NON",
-    "tagline": "Carthage: still delenda'd (146 BC). No further action required.",
+    "latin": "NULLO MODO",
+    "tagline": "The Curia Julia is open 9 to 7. Quorum: not reached.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VI Id. Sept.",
-    "full": "ante diem VI Idus Septembres",
+    "text": "a.d. V Id. Sept.",
+    "full": "ante diem V Idus Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566128,
-    "daysSinceEast": 209377,
+    "daysSinceWest": 566129,
+    "daysSinceEast": 209378,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 9,
+      "day": 9,
+      "year": 9,
+      "title": "Battle of the Teutoburg Forest (9–11 September)",
+      "text": "Arminius destroys three legions under Varus. Augustus: \"Quintili Vare, legiones redde!\"",
+      "tag": "BATTLE",
+      "wiki": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest"
+    },
+    {
+      "month": 9,
+      "day": 9,
+      "year": 214,
+      "title": "Aurelian born",
+      "text": "Future Restorer of the World, at Sirmium (probably).",
+      "tag": "MILESTONE",
+      "wiki": "https://en.wikipedia.org/wiki/Aurelian"
+    }
+  ],
   "nextAnniversary": {
     "month": 9,
-    "day": 9,
-    "year": 9,
-    "title": "Battle of the Teutoburg Forest (9–11 September)",
-    "text": "Arminius destroys three legions under Varus. Augustus: \"Quintili Vare, legiones redde!\"",
-    "tag": "BATTLE",
-    "wiki": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest",
-    "inDays": 1
+    "day": 13,
+    "year": 81,
+    "title": "Titus dies",
+    "text": "After twenty-six months; Domitian succeeds. \"I have made but one mistake.\"",
+    "tag": "INCIDENT",
+    "wiki": "https://en.wikipedia.org/wiki/Titus",
+    "inDays": 4
   },
   "emperor": {
-    "name": "Septimius Severus",
-    "born": "11 April AD 145",
-    "reign": "AD 193–211",
+    "name": "Caracalla",
+    "born": "4 April AD 188",
+    "reign": "AD 198–217",
     "dynasty": "Severan",
-    "line": "The African-born soldier-emperor. \"Enrich the soldiers and scorn everyone else.\"",
-    "exit": "natural causes",
-    "exitNote": "Died at Eboracum (York) on 4 February 211, on campaign in Britain.",
-    "wiki": "https://en.wikipedia.org/wiki/Septimius_Severus"
+    "line": "Murdered his brother Geta, granted citizenship to the whole Empire (212), built the Baths.",
+    "exit": "assassinated",
+    "exitNote": "Stabbed while relieving himself by the roadside near Carrhae on 8 April 217, on Macrinus's orders.",
+    "wiki": "https://en.wikipedia.org/wiki/Caracalla"
   },
   "phrase": {
-    "latin": "Carthago delenda est.",
-    "english": "Carthage must be destroyed.",
-    "source": "Cato the Elder, ending every speech (Plutarch, Cato Maior 27)",
-    "note": "Status: completed, 146 BC."
+    "latin": "Senatus Populusque Romanus.",
+    "english": "The Senate and People of Rome.",
+    "source": "SPQR — on standards, coins and inscriptions",
+    "note": "Still on Rome's manhole covers. The Senate and the People have mostly changed."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-07",
+    "asOf": "2026-09-08",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6545,
-        "avg30": 6474
+        "latest": 7073,
+        "avg30": 6489
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1680,
-        "avg30": 1569
+        "latest": 1685,
+        "avg30": 1573
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2529,
-        "avg30": 2576
+        "latest": 2613,
+        "avg30": 2570
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6720,
-        "avg30": 6476
+        "latest": 6932,
+        "avg30": 6477
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2123,
-        "avg30": 2324
+        "latest": 2379,
+        "avg30": 2335
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5177,
-        "avg30": 5296
+        "latest": 5299,
+        "avg30": 5295
       }
     ],
     "series": [
-      {
-        "date": "2026-08-09",
-        "views": 25267
-      },
       {
         "date": "2026-08-10",
         "views": 25343
@@ -211,13 +226,17 @@
       {
         "date": "2026-09-07",
         "views": 24774
+      },
+      {
+        "date": "2026-09-08",
+        "views": 25981
       }
     ],
-    "latestTotal": 24774,
-    "avg30Total": 24715,
-    "ratio": 1,
+    "latestTotal": 25981,
+    "avg30Total": 24739,
+    "ratio": 1.05,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 18
+  "streak": 19
 }
