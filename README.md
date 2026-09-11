@@ -7,7 +7,7 @@ A daily status check on the question a surprising number of people ask themselve
 **Live site:** https://cidm2000.github.io/romanreturn/
 
 <!-- verdict:start -->
-**Verdict as of 2026-09-10: NO.** a.d. IV Id. Sept. MMDCCLXXIX A.U.C. · Days since the West fell: 566,130 · Roman Thought Index: 26,237 Wikipedia reads on 2026-09-09 (NOMINAL).
+**Verdict as of 2026-09-11: NO.** a.d. III Id. Sept. MMDCCLXXIX A.U.C. · Days since the West fell: 566,131 · Roman Thought Index: 26,134 Wikipedia reads on 2026-09-10 (NOMINAL).
 <!-- verdict:end -->
 
 ## What this is
