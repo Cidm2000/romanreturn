@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-11T10:42:00.393Z",
-  "date": "2026-09-11",
+  "generatedAt": "2026-09-12T10:11:10.532Z",
+  "date": "2026-09-12",
   "verdict": {
     "answer": "NO",
-    "latin": "NONDUM",
-    "tagline": "Checked again this morning. The Senate is still not in session.",
+    "latin": "NEGATUR",
+    "tagline": "We looked under every laurel. Nothing.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. III Id. Sept.",
-    "full": "ante diem III Idus Septembres",
+    "text": "prid. Id. Sept.",
+    "full": "pridie Idus Septembres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566131,
-    "daysSinceEast": 209380,
+    "daysSinceWest": 566132,
+    "daysSinceEast": 209381,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "After twenty-six months; Domitian succeeds. \"I have made but one mistake.\"",
     "tag": "INCIDENT",
     "wiki": "https://en.wikipedia.org/wiki/Titus",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Severus Alexander",
-    "born": "1 October AD 208",
-    "reign": "AD 222–235",
-    "dynasty": "Severan",
-    "line": "The last Severan; a mild ruler whose murder opened the Crisis of the Third Century.",
+    "name": "Maximinus Thrax",
+    "born": "c. AD 173",
+    "reign": "AD 235–238",
+    "dynasty": "Crisis of the Third Century",
+    "line": "The first soldier-emperor from the ranks; never set foot in Rome.",
     "exit": "assassinated",
-    "exitNote": "Killed by mutinous troops near Moguntiacum (Mainz) in March 235.",
-    "wiki": "https://en.wikipedia.org/wiki/Severus_Alexander"
+    "exitNote": "Killed by his own troops while besieging Aquileia in 238.",
+    "wiki": "https://en.wikipedia.org/wiki/Maximinus_Thrax"
   },
   "phrase": {
-    "latin": "Acta est fabula, plaudite.",
-    "english": "The play is over — applaud.",
-    "source": "Augustus's reported last words (Suetonius, Divus Augustus 99)",
-    "note": "Exit, stage left, after forty-one years."
+    "latin": "Qualis artifex pereo!",
+    "english": "What an artist dies in me!",
+    "source": "Nero, AD 68 (Suetonius, Nero 49)",
+    "note": "Reviews were mixed."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-10",
+    "asOf": "2026-09-11",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7117,
-        "avg30": 6520
+        "latest": 7057,
+        "avg30": 6550
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1811,
-        "avg30": 1583
+        "latest": 1768,
+        "avg30": 1591
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2812,
-        "avg30": 2578
+        "latest": 2740,
+        "avg30": 2587
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 7024,
-        "avg30": 6498
+        "latest": 7453,
+        "avg30": 6544
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2187,
-        "avg30": 2346
+        "latest": 2348,
+        "avg30": 2357
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5183,
-        "avg30": 5296
+        "latest": 5569,
+        "avg30": 5306
       }
     ],
     "series": [
-      {
-        "date": "2026-08-12",
-        "views": 23582
-      },
       {
         "date": "2026-08-13",
         "views": 24448
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-10",
         "views": 26134
+      },
+      {
+        "date": "2026-09-11",
+        "views": 26935
       }
     ],
-    "latestTotal": 26134,
-    "avg30Total": 24821,
-    "ratio": 1.05,
+    "latestTotal": 26935,
+    "avg30Total": 24933,
+    "ratio": 1.08,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 21
+  "streak": 22
 }
