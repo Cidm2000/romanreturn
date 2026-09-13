@@ -1,101 +1,107 @@
 {
-  "generatedAt": "2026-09-12T10:11:10.532Z",
-  "date": "2026-09-12",
+  "generatedAt": "2026-09-13T11:10:28.735Z",
+  "date": "2026-09-13",
   "verdict": {
     "answer": "NO",
-    "latin": "NEGATUR",
-    "tagline": "We looked under every laurel. Nothing.",
+    "latin": "MINIME",
+    "tagline": "No legions detected on any frontier. The limes remain unmanned.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "prid. Id. Sept.",
-    "full": "pridie Idus Septembres",
+    "text": "Id. Sept.",
+    "full": "Idibus Septembribus",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566132,
-    "daysSinceEast": 209381,
+    "daysSinceWest": 566133,
+    "daysSinceEast": 209382,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 9,
+      "day": 13,
+      "year": 81,
+      "title": "Titus dies",
+      "text": "After twenty-six months; Domitian succeeds. \"I have made but one mistake.\"",
+      "tag": "INCIDENT",
+      "wiki": "https://en.wikipedia.org/wiki/Titus"
+    }
+  ],
   "nextAnniversary": {
     "month": 9,
-    "day": 13,
-    "year": 81,
-    "title": "Titus dies",
-    "text": "After twenty-six months; Domitian succeeds. \"I have made but one mistake.\"",
-    "tag": "INCIDENT",
-    "wiki": "https://en.wikipedia.org/wiki/Titus",
-    "inDays": 1
+    "day": 18,
+    "year": 53,
+    "title": "Trajan born",
+    "text": "At Italica in Hispania — the first emperor from the provinces.",
+    "tag": "MILESTONE",
+    "wiki": "https://en.wikipedia.org/wiki/Trajan",
+    "inDays": 5
   },
   "emperor": {
-    "name": "Maximinus Thrax",
-    "born": "c. AD 173",
-    "reign": "AD 235–238",
+    "name": "Decius",
+    "born": "c. AD 201",
+    "reign": "AD 249–251",
     "dynasty": "Crisis of the Third Century",
-    "line": "The first soldier-emperor from the ranks; never set foot in Rome.",
-    "exit": "assassinated",
-    "exitNote": "Killed by his own troops while besieging Aquileia in 238.",
-    "wiki": "https://en.wikipedia.org/wiki/Maximinus_Thrax"
+    "line": "Persecutor of Christians and the first emperor to die in battle against a foreign enemy.",
+    "exit": "killed in battle",
+    "exitNote": "Fell at Abritus against the Goths in June 251, with his son.",
+    "wiki": "https://en.wikipedia.org/wiki/Decius"
   },
   "phrase": {
-    "latin": "Qualis artifex pereo!",
-    "english": "What an artist dies in me!",
-    "source": "Nero, AD 68 (Suetonius, Nero 49)",
-    "note": "Reviews were mixed."
+    "latin": "Vae victis.",
+    "english": "Woe to the vanquished.",
+    "source": "Brennus, at the Gallic sack of Rome, c. 390 BC (Livy 5.48)",
+    "note": "Said while throwing his sword on the scales to raise the ransom."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-11",
+    "asOf": "2026-09-12",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7057,
-        "avg30": 6550
+        "latest": 5979,
+        "avg30": 6534
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1768,
-        "avg30": 1591
+        "latest": 1372,
+        "avg30": 1586
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2740,
-        "avg30": 2587
+        "latest": 2186,
+        "avg30": 2573
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 7453,
-        "avg30": 6544
+        "latest": 6263,
+        "avg30": 6551
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2348,
-        "avg30": 2357
+        "latest": 1796,
+        "avg30": 2345
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5569,
-        "avg30": 5306
+        "latest": 4615,
+        "avg30": 5270
       }
     ],
     "series": [
-      {
-        "date": "2026-08-13",
-        "views": 24448
-      },
       {
         "date": "2026-08-14",
         "views": 24283
@@ -211,13 +217,17 @@
       {
         "date": "2026-09-11",
         "views": 26935
+      },
+      {
+        "date": "2026-09-12",
+        "views": 22211
       }
     ],
-    "latestTotal": 26935,
-    "avg30Total": 24933,
-    "ratio": 1.08,
-    "level": "NOMINAL",
-    "levelText": "A normal day of thinking about Rome."
+    "latestTotal": 22211,
+    "avg30Total": 24859,
+    "ratio": 0.89,
+    "level": "DORMANT",
+    "levelText": "Unusually few people are thinking about Rome. Suspicious."
   },
-  "streak": 22
+  "streak": 23
 }
