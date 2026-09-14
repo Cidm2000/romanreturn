@@ -1,38 +1,28 @@
 {
-  "generatedAt": "2026-09-13T11:10:28.735Z",
-  "date": "2026-09-13",
+  "generatedAt": "2026-09-14T11:56:40.626Z",
+  "date": "2026-09-14",
   "verdict": {
     "answer": "NO",
-    "latin": "MINIME",
-    "tagline": "No legions detected on any frontier. The limes remain unmanned.",
+    "latin": "NEQUAQUAM",
+    "tagline": "The Tiber is unpatrolled and the Forum is a pedestrian zone for tourists.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "Id. Sept.",
-    "full": "Idibus Septembribus",
+    "text": "a.d. XVIII Kal. Oct.",
+    "full": "ante diem XVIII Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566133,
-    "daysSinceEast": 209382,
+    "daysSinceWest": 566134,
+    "daysSinceEast": 209383,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [
-    {
-      "month": 9,
-      "day": 13,
-      "year": 81,
-      "title": "Titus dies",
-      "text": "After twenty-six months; Domitian succeeds. \"I have made but one mistake.\"",
-      "tag": "INCIDENT",
-      "wiki": "https://en.wikipedia.org/wiki/Titus"
-    }
-  ],
+  "onThisDay": [],
   "nextAnniversary": {
     "month": 9,
     "day": 18,
@@ -41,71 +31,67 @@
     "text": "At Italica in Hispania — the first emperor from the provinces.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Trajan",
-    "inDays": 5
+    "inDays": 4
   },
   "emperor": {
-    "name": "Decius",
-    "born": "c. AD 201",
-    "reign": "AD 249–251",
+    "name": "Valerian",
+    "born": "c. AD 199",
+    "reign": "AD 253–260",
     "dynasty": "Crisis of the Third Century",
-    "line": "Persecutor of Christians and the first emperor to die in battle against a foreign enemy.",
-    "exit": "killed in battle",
-    "exitNote": "Fell at Abritus against the Goths in June 251, with his son.",
-    "wiki": "https://en.wikipedia.org/wiki/Decius"
+    "line": "The only emperor ever taken prisoner by a foreign power.",
+    "exit": "died in captivity",
+    "exitNote": "Captured by Shapur I near Edessa in 260; reportedly used as a footstool. Died a Persian prisoner.",
+    "wiki": "https://en.wikipedia.org/wiki/Valerian_(emperor)"
   },
   "phrase": {
-    "latin": "Vae victis.",
-    "english": "Woe to the vanquished.",
-    "source": "Brennus, at the Gallic sack of Rome, c. 390 BC (Livy 5.48)",
-    "note": "Said while throwing his sword on the scales to raise the ransom."
+    "latin": "Pecunia non olet.",
+    "english": "Money does not stink.",
+    "source": "Vespasian, on the urine tax (Suetonius, Vespasian 23)",
+    "note": "Public urinals in Italy are still sometimes called vespasiani."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-12",
+    "asOf": "2026-09-13",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 5979,
-        "avg30": 6534
+        "latest": 6214,
+        "avg30": 6539
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1372,
-        "avg30": 1586
+        "latest": 1597,
+        "avg30": 1587
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2186,
-        "avg30": 2573
+        "latest": 2507,
+        "avg30": 2571
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6263,
-        "avg30": 6551
+        "latest": 6878,
+        "avg30": 6541
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 1796,
-        "avg30": 2345
+        "latest": 1938,
+        "avg30": 2346
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 4615,
-        "avg30": 5270
+        "latest": 4817,
+        "avg30": 5263
       }
     ],
     "series": [
-      {
-        "date": "2026-08-14",
-        "views": 24283
-      },
       {
         "date": "2026-08-15",
         "views": 22800
@@ -221,13 +207,17 @@
       {
         "date": "2026-09-12",
         "views": 22211
+      },
+      {
+        "date": "2026-09-13",
+        "views": 23951
       }
     ],
-    "latestTotal": 22211,
-    "avg30Total": 24859,
-    "ratio": 0.89,
-    "level": "DORMANT",
-    "levelText": "Unusually few people are thinking about Rome. Suspicious."
+    "latestTotal": 23951,
+    "avg30Total": 24847,
+    "ratio": 0.96,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 23
+  "streak": 24
 }
