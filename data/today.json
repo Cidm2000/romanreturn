@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-15T11:12:07.931Z",
-  "date": "2026-09-15",
+  "generatedAt": "2026-09-16T10:55:18.463Z",
+  "date": "2026-09-16",
   "verdict": {
     "answer": "NO",
-    "latin": "NON",
-    "tagline": "Consulship vacant since AD 541. Applications are not being accepted.",
+    "latin": "NULLO MODO",
+    "tagline": "All aqueducts report normal pressure. No emperor reports.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XVII Kal. Oct.",
-    "full": "ante diem XVII Kalendas Octobres",
+    "text": "a.d. XVI Kal. Oct.",
+    "full": "ante diem XVI Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566135,
-    "daysSinceEast": 209384,
+    "daysSinceWest": 566136,
+    "daysSinceEast": 209385,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "At Italica in Hispania — the first emperor from the provinces.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Trajan",
-    "inDays": 3
+    "inDays": 2
   },
   "emperor": {
-    "name": "Gallienus",
-    "born": "c. AD 218",
-    "reign": "AD 253–268",
+    "name": "Aurelian",
+    "born": "9 September AD 214",
+    "reign": "AD 270–275",
     "dynasty": "Crisis of the Third Century",
-    "line": "Held the centre while Gaul and Palmyra broke away; reformed the cavalry.",
+    "line": "Restitutor Orbis: beat Palmyra and the Gallic Empire, walled Rome, and reunified the Empire in five years.",
     "exit": "assassinated",
-    "exitNote": "Killed by his own officers outside Milan in 268.",
-    "wiki": "https://en.wikipedia.org/wiki/Gallienus"
+    "exitNote": "Murdered by his officers near Byzantium in late 275, after a forged execution list.",
+    "wiki": "https://en.wikipedia.org/wiki/Aurelian"
   },
   "phrase": {
-    "latin": "Et tu, Brute?",
-    "english": "You too, Brutus?",
-    "source": "Shakespeare, Julius Caesar (1599) — not ancient",
-    "note": "Suetonius has Caesar say \"καὶ σύ, τέκνον;\" — \"You too, child?\" — in Greek, if he said anything at all."
+    "latin": "Memento mori.",
+    "english": "Remember that you will die.",
+    "source": "Traditionally whispered to triumphing generals (cf. Tertullian, Apologeticus 33)",
+    "note": "The phrasing is later; the idea is Roman."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-14",
+    "asOf": "2026-09-15",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7771,
-        "avg30": 6598
+        "latest": 7001,
+        "avg30": 6617
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1913,
-        "avg30": 1604
+        "latest": 1852,
+        "avg30": 1615
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 3136,
-        "avg30": 2599
+        "latest": 2705,
+        "avg30": 2605
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 8106,
-        "avg30": 6615
+        "latest": 6925,
+        "avg30": 6630
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2720,
-        "avg30": 2375
+        "latest": 2279,
+        "avg30": 2380
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5456,
-        "avg30": 5267
+        "latest": 5094,
+        "avg30": 5263
       }
     ],
     "series": [
-      {
-        "date": "2026-08-16",
-        "views": 24247
-      },
       {
         "date": "2026-08-17",
         "views": 24845
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-14",
         "views": 29102
+      },
+      {
+        "date": "2026-09-15",
+        "views": 25856
       }
     ],
-    "latestTotal": 29102,
-    "avg30Total": 25058,
-    "ratio": 1.16,
-    "level": "ELEVATED",
-    "levelText": "More people than usual are thinking about Rome."
+    "latestTotal": 25856,
+    "avg30Total": 25111,
+    "ratio": 1.03,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 25
+  "streak": 26
 }
