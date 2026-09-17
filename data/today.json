@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-16T10:55:18.463Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-17T11:04:20.664Z",
+  "date": "2026-09-17",
   "verdict": {
     "answer": "NO",
-    "latin": "NULLO MODO",
-    "tagline": "All aqueducts report normal pressure. No emperor reports.",
+    "latin": "HAUD",
+    "tagline": "Tyrian purple production remains at hobbyist levels.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XVI Kal. Oct.",
-    "full": "ante diem XVI Kalendas Octobres",
+    "text": "a.d. XV Kal. Oct.",
+    "full": "ante diem XV Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566136,
-    "daysSinceEast": 209385,
+    "daysSinceWest": 566137,
+    "daysSinceEast": 209386,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "At Italica in Hispania — the first emperor from the provinces.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Trajan",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Aurelian",
-    "born": "9 September AD 214",
-    "reign": "AD 270–275",
-    "dynasty": "Crisis of the Third Century",
-    "line": "Restitutor Orbis: beat Palmyra and the Gallic Empire, walled Rome, and reunified the Empire in five years.",
-    "exit": "assassinated",
-    "exitNote": "Murdered by his officers near Byzantium in late 275, after a forged execution list.",
-    "wiki": "https://en.wikipedia.org/wiki/Aurelian"
+    "name": "Diocletian",
+    "born": "22 December c. AD 244",
+    "reign": "AD 284–305",
+    "dynasty": "Tetrarchy",
+    "line": "Reorganised everything — tetrarchy, provinces, taxes, prices — then retired to grow cabbages at Split.",
+    "exit": "abdicated, retired",
+    "exitNote": "Abdicated 1 May 305; died c. 311/312 in his palace at Spalatum. The only emperor to retire voluntarily.",
+    "wiki": "https://en.wikipedia.org/wiki/Diocletian"
   },
   "phrase": {
-    "latin": "Memento mori.",
-    "english": "Remember that you will die.",
-    "source": "Traditionally whispered to triumphing generals (cf. Tertullian, Apologeticus 33)",
-    "note": "The phrasing is later; the idea is Roman."
+    "latin": "Panem et circenses.",
+    "english": "Bread and circuses.",
+    "source": "Juvenal, Satires 10.81",
+    "note": "Juvenal was complaining, not recommending."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-15",
+    "asOf": "2026-09-16",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7001,
-        "avg30": 6617
+        "latest": 7457,
+        "avg30": 6641
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1852,
-        "avg30": 1615
+        "latest": 1772,
+        "avg30": 1623
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2705,
-        "avg30": 2605
+        "latest": 2839,
+        "avg30": 2616
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6925,
-        "avg30": 6630
+        "latest": 6878,
+        "avg30": 6641
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2279,
-        "avg30": 2380
+        "latest": 2161,
+        "avg30": 2376
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5094,
-        "avg30": 5263
+        "latest": 5422,
+        "avg30": 5270
       }
     ],
     "series": [
-      {
-        "date": "2026-08-17",
-        "views": 24845
-      },
       {
         "date": "2026-08-18",
         "views": 24678
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-15",
         "views": 25856
+      },
+      {
+        "date": "2026-09-16",
+        "views": 26529
       }
     ],
-    "latestTotal": 25856,
-    "avg30Total": 25111,
-    "ratio": 1.03,
+    "latestTotal": 26529,
+    "avg30Total": 25167,
+    "ratio": 1.05,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 26
+  "streak": 27
 }
