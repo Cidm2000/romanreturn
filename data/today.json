@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-18T10:39:43.000Z",
-  "date": "2026-09-18",
+  "generatedAt": "2026-09-19T10:24:03.948Z",
+  "date": "2026-09-19",
   "verdict": {
     "answer": "NO",
-    "latin": "NONDUM",
-    "tagline": "Zero triumphs scheduled. The Via Sacra is open to foot traffic.",
+    "latin": "NEGATUR",
+    "tagline": "Mare Nostrum is currently everybody's. Which is to say nobody's.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XIV Kal. Oct.",
-    "full": "ante diem XIV Kalendas Octobres",
+    "text": "a.d. XIII Kal. Oct.",
+    "full": "ante diem XIII Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566138,
-    "daysSinceEast": 209387,
+    "daysSinceWest": 566139,
+    "daysSinceEast": 209388,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -25,96 +25,83 @@
   "onThisDay": [
     {
       "month": 9,
-      "day": 18,
-      "year": 53,
-      "title": "Trajan born",
-      "text": "At Italica in Hispania — the first emperor from the provinces.",
+      "day": 19,
+      "year": 86,
+      "title": "Antoninus Pius born",
+      "text": "At Lanuvium. Future quietest emperor.",
       "tag": "MILESTONE",
-      "wiki": "https://en.wikipedia.org/wiki/Trajan"
-    },
-    {
-      "month": 9,
-      "day": 18,
-      "year": 96,
-      "title": "Domitian assassinated",
-      "text": "A court conspiracy; the Senate elects Nerva and orders damnatio memoriae. The \"Five Good Emperors\" begin.",
-      "tag": "INCIDENT",
-      "wiki": "https://en.wikipedia.org/wiki/Domitian"
+      "wiki": "https://en.wikipedia.org/wiki/Antoninus_Pius"
     }
   ],
   "nextAnniversary": {
     "month": 9,
-    "day": 19,
-    "year": 86,
-    "title": "Antoninus Pius born",
-    "text": "At Lanuvium. Future quietest emperor.",
+    "day": 23,
+    "year": -63,
+    "title": "Augustus born",
+    "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
     "tag": "MILESTONE",
-    "wiki": "https://en.wikipedia.org/wiki/Antoninus_Pius",
-    "inDays": 1
+    "wiki": "https://en.wikipedia.org/wiki/Augustus",
+    "inDays": 4
   },
   "emperor": {
-    "name": "Constantine the Great",
-    "born": "27 February c. AD 272",
-    "reign": "AD 306–337",
+    "name": "Julian",
+    "born": "AD 331",
+    "reign": "AD 361–363",
     "dynasty": "Constantinian",
-    "line": "Won at the Milvian Bridge, legalised Christianity, founded Constantinople, reunified the Empire.",
-    "exit": "natural causes",
-    "exitNote": "Died near Nicomedia on 22 May 337, baptised on his deathbed.",
-    "wiki": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+    "line": "\"The Apostate\": the philosopher-soldier who tried to restore the old gods.",
+    "exit": "killed in battle",
+    "exitNote": "Mortally wounded in Persia on 26 June 363. \"Vicisti, Galilaee\" is probably an invention.",
+    "wiki": "https://en.wikipedia.org/wiki/Julian_(emperor)"
   },
   "phrase": {
-    "latin": "Si vis pacem, para bellum.",
-    "english": "If you want peace, prepare for war.",
-    "source": "After Vegetius, De Re Militari 3 (4th–5th century)",
-    "note": "Vegetius actually wrote \"qui desiderat pacem, praeparet bellum\". Also the origin of \"Parabellum\"."
+    "latin": "Dum spiro, spero.",
+    "english": "While I breathe, I hope.",
+    "source": "Proverbial; cf. Cicero, Ad Atticum 9.10",
+    "note": "Now the motto of South Carolina and of the University of St Andrews."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-17",
+    "asOf": "2026-09-18",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7078,
-        "avg30": 6658
+        "latest": 7340,
+        "avg30": 6684
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1852,
-        "avg30": 1630
+        "latest": 2392,
+        "avg30": 1655
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2622,
-        "avg30": 2618
+        "latest": 2766,
+        "avg30": 2620
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6809,
-        "avg30": 6656
+        "latest": 6717,
+        "avg30": 6661
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2377,
-        "avg30": 2384
+        "latest": 2291,
+        "avg30": 2388
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5458,
-        "avg30": 5273
+        "latest": 5209,
+        "avg30": 5268
       }
     ],
     "series": [
-      {
-        "date": "2026-08-19",
-        "views": 24989
-      },
       {
         "date": "2026-08-20",
         "views": 25281
@@ -230,13 +217,17 @@
       {
         "date": "2026-09-17",
         "views": 26196
+      },
+      {
+        "date": "2026-09-18",
+        "views": 26715
       }
     ],
-    "latestTotal": 26196,
-    "avg30Total": 25218,
-    "ratio": 1.04,
+    "latestTotal": 26715,
+    "avg30Total": 25275,
+    "ratio": 1.06,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 28
+  "streak": 29
 }
