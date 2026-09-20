@@ -1,38 +1,28 @@
 {
-  "generatedAt": "2026-09-19T10:24:03.948Z",
-  "date": "2026-09-19",
+  "generatedAt": "2026-09-20T10:43:39.198Z",
+  "date": "2026-09-20",
   "verdict": {
     "answer": "NO",
-    "latin": "NEGATUR",
-    "tagline": "Mare Nostrum is currently everybody's. Which is to say nobody's.",
+    "latin": "MINIME",
+    "tagline": "The Praetorian Guard has not auctioned anything today.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XIII Kal. Oct.",
-    "full": "ante diem XIII Kalendas Octobres",
+    "text": "a.d. XII Kal. Oct.",
+    "full": "ante diem XII Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566139,
-    "daysSinceEast": 209388,
+    "daysSinceWest": 566140,
+    "daysSinceEast": 209389,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [
-    {
-      "month": 9,
-      "day": 19,
-      "year": 86,
-      "title": "Antoninus Pius born",
-      "text": "At Lanuvium. Future quietest emperor.",
-      "tag": "MILESTONE",
-      "wiki": "https://en.wikipedia.org/wiki/Antoninus_Pius"
-    }
-  ],
+  "onThisDay": [],
   "nextAnniversary": {
     "month": 9,
     "day": 23,
@@ -41,71 +31,67 @@
     "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Augustus",
-    "inDays": 4
+    "inDays": 3
   },
   "emperor": {
-    "name": "Julian",
-    "born": "AD 331",
-    "reign": "AD 361–363",
-    "dynasty": "Constantinian",
-    "line": "\"The Apostate\": the philosopher-soldier who tried to restore the old gods.",
+    "name": "Valens",
+    "born": "AD 328",
+    "reign": "AD 364–378",
+    "dynasty": "Valentinianic",
+    "line": "The Eastern emperor who let the Goths across the Danube, then fought them.",
     "exit": "killed in battle",
-    "exitNote": "Mortally wounded in Persia on 26 June 363. \"Vicisti, Galilaee\" is probably an invention.",
-    "wiki": "https://en.wikipedia.org/wiki/Julian_(emperor)"
+    "exitNote": "Died at Adrianople on 9 August 378; his body was never found.",
+    "wiki": "https://en.wikipedia.org/wiki/Valens"
   },
   "phrase": {
-    "latin": "Dum spiro, spero.",
-    "english": "While I breathe, I hope.",
-    "source": "Proverbial; cf. Cicero, Ad Atticum 9.10",
-    "note": "Now the motto of South Carolina and of the University of St Andrews."
+    "latin": "Cui bono?",
+    "english": "Who benefits?",
+    "source": "Cicero, Pro Roscio Amerino 84, crediting the judge Lucius Cassius",
+    "note": "Still the first question in every investigation."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-18",
+    "asOf": "2026-09-19",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7340,
-        "avg30": 6684
+        "latest": 5874,
+        "avg30": 6662
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 2392,
+        "latest": 1585,
         "avg30": 1655
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2766,
-        "avg30": 2620
+        "latest": 2201,
+        "avg30": 2607
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6717,
-        "avg30": 6661
+        "latest": 5789,
+        "avg30": 6622
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2291,
-        "avg30": 2388
+        "latest": 1810,
+        "avg30": 2375
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5209,
-        "avg30": 5268
+        "latest": 4815,
+        "avg30": 5248
       }
     ],
     "series": [
-      {
-        "date": "2026-08-20",
-        "views": 25281
-      },
       {
         "date": "2026-08-21",
         "views": 24593
@@ -221,13 +207,17 @@
       {
         "date": "2026-09-18",
         "views": 26715
+      },
+      {
+        "date": "2026-09-19",
+        "views": 22074
       }
     ],
-    "latestTotal": 26715,
-    "avg30Total": 25275,
-    "ratio": 1.06,
-    "level": "NOMINAL",
-    "levelText": "A normal day of thinking about Rome."
+    "latestTotal": 22074,
+    "avg30Total": 25169,
+    "ratio": 0.88,
+    "level": "DORMANT",
+    "levelText": "Unusually few people are thinking about Rome. Suspicious."
   },
-  "streak": 29
+  "streak": 30
 }
