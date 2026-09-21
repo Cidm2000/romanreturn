@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-20T10:43:39.198Z",
-  "date": "2026-09-20",
+  "generatedAt": "2026-09-21T12:07:48.010Z",
+  "date": "2026-09-21",
   "verdict": {
     "answer": "NO",
-    "latin": "MINIME",
-    "tagline": "The Praetorian Guard has not auctioned anything today.",
+    "latin": "NEQUAQUAM",
+    "tagline": "Latin remains in maintenance mode (Vatican City, pop. ~800).",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XII Kal. Oct.",
-    "full": "ante diem XII Kalendas Octobres",
+    "text": "a.d. XI Kal. Oct.",
+    "full": "ante diem XI Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566140,
-    "daysSinceEast": 209389,
+    "daysSinceWest": 566141,
+    "daysSinceEast": 209390,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Augustus",
-    "inDays": 3
+    "inDays": 2
   },
   "emperor": {
-    "name": "Valens",
-    "born": "AD 328",
-    "reign": "AD 364–378",
-    "dynasty": "Valentinianic",
-    "line": "The Eastern emperor who let the Goths across the Danube, then fought them.",
-    "exit": "killed in battle",
-    "exitNote": "Died at Adrianople on 9 August 378; his body was never found.",
-    "wiki": "https://en.wikipedia.org/wiki/Valens"
+    "name": "Theodosius I",
+    "born": "11 January AD 347",
+    "reign": "AD 379–395",
+    "dynasty": "Theodosian",
+    "line": "The last emperor to rule both halves; made Nicene Christianity the state religion.",
+    "exit": "natural causes",
+    "exitNote": "Died at Milan on 17 January 395; the Empire was divided between his sons Arcadius and Honorius.",
+    "wiki": "https://en.wikipedia.org/wiki/Theodosius_I"
   },
   "phrase": {
-    "latin": "Cui bono?",
-    "english": "Who benefits?",
-    "source": "Cicero, Pro Roscio Amerino 84, crediting the judge Lucius Cassius",
-    "note": "Still the first question in every investigation."
+    "latin": "O tempora, o mores!",
+    "english": "Oh the times, oh the customs!",
+    "source": "Cicero, In Catilinam 1.2",
+    "note": "Every generation, forever."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-19",
+    "asOf": "2026-09-20",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 5874,
-        "avg30": 6662
+        "latest": 6180,
+        "avg30": 6647
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1585,
-        "avg30": 1655
+        "latest": 1567,
+        "avg30": 1656
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2201,
-        "avg30": 2607
+        "latest": 2284,
+        "avg30": 2599
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 5789,
-        "avg30": 6622
+        "latest": 6568,
+        "avg30": 6632
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 1810,
-        "avg30": 2375
+        "latest": 1970,
+        "avg30": 2371
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 4815,
-        "avg30": 5248
+        "latest": 4919,
+        "avg30": 5227
       }
     ],
     "series": [
-      {
-        "date": "2026-08-21",
-        "views": 24593
-      },
       {
         "date": "2026-08-22",
         "views": 22943
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-19",
         "views": 22074
+      },
+      {
+        "date": "2026-09-20",
+        "views": 23488
       }
     ],
-    "latestTotal": 22074,
-    "avg30Total": 25169,
-    "ratio": 0.88,
-    "level": "DORMANT",
-    "levelText": "Unusually few people are thinking about Rome. Suspicious."
+    "latestTotal": 23488,
+    "avg30Total": 25132,
+    "ratio": 0.93,
+    "level": "NOMINAL",
+    "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 30
+  "streak": 31
 }
