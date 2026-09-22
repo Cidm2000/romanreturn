@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-21T12:07:48.010Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-22T11:02:35.383Z",
+  "date": "2026-09-22",
   "verdict": {
     "answer": "NO",
-    "latin": "NEQUAQUAM",
-    "tagline": "Latin remains in maintenance mode (Vatican City, pop. ~800).",
+    "latin": "NON",
+    "tagline": "Bread: available. Circuses: streaming only.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. XI Kal. Oct.",
-    "full": "ante diem XI Kalendas Octobres",
+    "text": "a.d. X Kal. Oct.",
+    "full": "ante diem X Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566141,
-    "daysSinceEast": 209390,
+    "daysSinceWest": 566142,
+    "daysSinceEast": 209391,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
     "tag": "MILESTONE",
     "wiki": "https://en.wikipedia.org/wiki/Augustus",
-    "inDays": 2
+    "inDays": 1
   },
   "emperor": {
-    "name": "Theodosius I",
-    "born": "11 January AD 347",
-    "reign": "AD 379–395",
+    "name": "Honorius",
+    "born": "9 September AD 384",
+    "reign": "AD 393–423",
     "dynasty": "Theodosian",
-    "line": "The last emperor to rule both halves; made Nicene Christianity the state religion.",
-    "exit": "natural causes",
-    "exitNote": "Died at Milan on 17 January 395; the Empire was divided between his sons Arcadius and Honorius.",
-    "wiki": "https://en.wikipedia.org/wiki/Theodosius_I"
+    "line": "Presided, from Ravenna, over the sack of Rome in 410 — reportedly more worried about his chicken, also named Roma.",
+    "exit": "natural causes (oedema)",
+    "exitNote": "Died in Ravenna on 15 August 423.",
+    "wiki": "https://en.wikipedia.org/wiki/Honorius_(emperor)"
   },
   "phrase": {
-    "latin": "O tempora, o mores!",
-    "english": "Oh the times, oh the customs!",
-    "source": "Cicero, In Catilinam 1.2",
-    "note": "Every generation, forever."
+    "latin": "Quo usque tandem abutere, Catilina, patientia nostra?",
+    "english": "How long, Catiline, will you abuse our patience?",
+    "source": "Cicero, In Catilinam 1.1, 8 November 63 BC",
+    "note": "The most famous opening line in Latin oratory. Catiline left town that night."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-20",
+    "asOf": "2026-09-21",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6180,
-        "avg30": 6647
+        "latest": 6982,
+        "avg30": 6675
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1567,
-        "avg30": 1656
+        "latest": 1789,
+        "avg30": 1671
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2284,
-        "avg30": 2599
+        "latest": 2581,
+        "avg30": 2606
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 6568,
-        "avg30": 6632
+        "latest": 10895,
+        "avg30": 6787
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 1970,
-        "avg30": 2371
+        "latest": 2295,
+        "avg30": 2381
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 4919,
-        "avg30": 5227
+        "latest": 5296,
+        "avg30": 5241
       }
     ],
     "series": [
-      {
-        "date": "2026-08-22",
-        "views": 22943
-      },
       {
         "date": "2026-08-23",
         "views": 24189
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-20",
         "views": 23488
+      },
+      {
+        "date": "2026-09-21",
+        "views": 29838
       }
     ],
-    "latestTotal": 23488,
-    "avg30Total": 25132,
-    "ratio": 0.93,
-    "level": "NOMINAL",
-    "levelText": "A normal day of thinking about Rome."
+    "latestTotal": 29838,
+    "avg30Total": 25362,
+    "ratio": 1.18,
+    "level": "ELEVATED",
+    "levelText": "More people than usual are thinking about Rome."
   },
-  "streak": 31
+  "streak": 32
 }
