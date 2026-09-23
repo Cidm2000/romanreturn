@@ -1,101 +1,107 @@
 {
-  "generatedAt": "2026-09-22T11:02:35.383Z",
-  "date": "2026-09-22",
+  "generatedAt": "2026-09-23T10:52:08.158Z",
+  "date": "2026-09-23",
   "verdict": {
     "answer": "NO",
-    "latin": "NON",
-    "tagline": "Bread: available. Circuses: streaming only.",
+    "latin": "NULLO MODO",
+    "tagline": "The eagle standards are in museums, behind glass, which is not where you keep them if you are back.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. X Kal. Oct.",
-    "full": "ante diem X Kalendas Octobres",
+    "text": "a.d. IX Kal. Oct.",
+    "full": "ante diem IX Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566142,
-    "daysSinceEast": 209391,
+    "daysSinceWest": 566143,
+    "daysSinceEast": 209392,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
   },
-  "onThisDay": [],
+  "onThisDay": [
+    {
+      "month": 9,
+      "day": 23,
+      "year": -63,
+      "title": "Augustus born",
+      "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
+      "tag": "MILESTONE",
+      "wiki": "https://en.wikipedia.org/wiki/Augustus"
+    }
+  ],
   "nextAnniversary": {
-    "month": 9,
-    "day": 23,
-    "year": -63,
-    "title": "Augustus born",
-    "text": "Gaius Octavius, in Rome. His birthday later became the start of the civic year in the province of Asia.",
-    "tag": "MILESTONE",
-    "wiki": "https://en.wikipedia.org/wiki/Augustus",
-    "inDays": 1
+    "month": 10,
+    "day": 3,
+    "year": -42,
+    "title": "First Battle of Philippi",
+    "text": "Brutus beats Octavian; Antony beats Cassius, who kills himself believing all is lost. Round two on 23 October.",
+    "tag": "BATTLE",
+    "wiki": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
+    "inDays": 10
   },
   "emperor": {
-    "name": "Honorius",
-    "born": "9 September AD 384",
-    "reign": "AD 393–423",
-    "dynasty": "Theodosian",
-    "line": "Presided, from Ravenna, over the sack of Rome in 410 — reportedly more worried about his chicken, also named Roma.",
-    "exit": "natural causes (oedema)",
-    "exitNote": "Died in Ravenna on 15 August 423.",
-    "wiki": "https://en.wikipedia.org/wiki/Honorius_(emperor)"
+    "name": "Majorian",
+    "born": "c. AD 420",
+    "reign": "AD 457–461",
+    "dynasty": "Late Western",
+    "line": "The last Western emperor who seriously tried to restore the state — Gibbon's \"great and heroic character\".",
+    "exit": "executed",
+    "exitNote": "Deposed and beheaded by his general Ricimer on 7 August 461.",
+    "wiki": "https://en.wikipedia.org/wiki/Majorian"
   },
   "phrase": {
-    "latin": "Quo usque tandem abutere, Catilina, patientia nostra?",
-    "english": "How long, Catiline, will you abuse our patience?",
-    "source": "Cicero, In Catilinam 1.1, 8 November 63 BC",
-    "note": "The most famous opening line in Latin oratory. Catiline left town that night."
+    "latin": "Carpe diem.",
+    "english": "Seize the day.",
+    "source": "Horace, Odes 1.11",
+    "note": "Full line: carpe diem, quam minimum credula postero — seize the day, trusting as little as possible in tomorrow."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-21",
+    "asOf": "2026-09-22",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6982,
-        "avg30": 6675
+        "latest": 7338,
+        "avg30": 6714
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1789,
-        "avg30": 1671
+        "latest": 1832,
+        "avg30": 1684
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2581,
-        "avg30": 2606
+        "latest": 2821,
+        "avg30": 2614
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 10895,
-        "avg30": 6787
+        "latest": 8066,
+        "avg30": 6840
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2295,
-        "avg30": 2381
+        "latest": 2493,
+        "avg30": 2393
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5296,
-        "avg30": 5241
+        "latest": 11480,
+        "avg30": 5445
       }
     ],
     "series": [
-      {
-        "date": "2026-08-23",
-        "views": 24189
-      },
       {
         "date": "2026-08-24",
         "views": 26062
@@ -211,13 +217,17 @@
       {
         "date": "2026-09-21",
         "views": 29838
+      },
+      {
+        "date": "2026-09-22",
+        "views": 34030
       }
     ],
-    "latestTotal": 29838,
-    "avg30Total": 25362,
-    "ratio": 1.18,
-    "level": "ELEVATED",
-    "levelText": "More people than usual are thinking about Rome."
+    "latestTotal": 34030,
+    "avg30Total": 25690,
+    "ratio": 1.32,
+    "level": "HIGH",
+    "levelText": "Something Roman is trending. Check the trailers."
   },
-  "streak": 32
+  "streak": 33
 }
