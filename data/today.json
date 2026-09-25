@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-24T11:11:43.332Z",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-25T11:16:38.216Z",
+  "date": "2026-09-25",
   "verdict": {
     "answer": "NO",
-    "latin": "HAUD",
-    "tagline": "Status unchanged. It has been unchanged for a while.",
+    "latin": "NONDUM",
+    "tagline": "Barbarians at the gates: none. Gates: also none.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VIII Kal. Oct.",
-    "full": "ante diem VIII Kalendas Octobres",
+    "text": "a.d. VII Kal. Oct.",
+    "full": "ante diem VII Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566144,
-    "daysSinceEast": 209393,
+    "daysSinceWest": 566145,
+    "daysSinceEast": 209394,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Brutus beats Octavian; Antony beats Cassius, who kills himself believing all is lost. Round two on 23 October.",
     "tag": "BATTLE",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
-    "inDays": 9
+    "inDays": 8
   },
   "emperor": {
-    "name": "Romulus Augustulus",
-    "born": "c. AD 460",
-    "reign": "AD 475–476",
-    "dynasty": "Late Western",
-    "line": "Teenage figurehead and last Western emperor; \"Augustulus\" means \"little Augustus\".",
-    "exit": "deposed",
-    "exitNote": "Deposed by Odoacer on 4 September 476 and pensioned off to Campania. Fate unknown. This site counts from his last day.",
-    "wiki": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+    "name": "Zeno",
+    "born": "c. AD 425",
+    "reign": "AD 474–491",
+    "dynasty": "Leonid",
+    "line": "Received the Western regalia from Odoacer in 476. From Constantinople, the \"end of the Western Empire\" looked like an administrative tidy-up.",
+    "exit": "natural causes",
+    "exitNote": "Died on 9 April 491. A later legend says he was buried alive. Probably not.",
+    "wiki": "https://en.wikipedia.org/wiki/Zeno_(emperor)"
   },
   "phrase": {
-    "latin": "Odi et amo.",
-    "english": "I hate and I love.",
-    "source": "Catullus 85",
-    "note": "The shortest complete breakdown in Latin literature."
+    "latin": "Arma virumque cano.",
+    "english": "I sing of arms and the man.",
+    "source": "Virgil, Aeneid 1.1",
+    "note": "The Empire's founding epic, commissioned by management."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-23",
+    "asOf": "2026-09-24",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 7084,
-        "avg30": 6724
+        "latest": 6805,
+        "avg30": 6728
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1790,
-        "avg30": 1685
+        "latest": 1786,
+        "avg30": 1686
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2744,
-        "avg30": 2615
+        "latest": 2471,
+        "avg30": 2612
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 7576,
-        "avg30": 6862
+        "latest": 7104,
+        "avg30": 6881
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2231,
-        "avg30": 2386
+        "latest": 2384,
+        "avg30": 2393
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5586,
-        "avg30": 5450
+        "latest": 5320,
+        "avg30": 5431
       }
     ],
     "series": [
-      {
-        "date": "2026-08-25",
-        "views": 25533
-      },
       {
         "date": "2026-08-26",
         "views": 26181
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-23",
         "views": 27011
+      },
+      {
+        "date": "2026-09-24",
+        "views": 25870
       }
     ],
-    "latestTotal": 27011,
-    "avg30Total": 25721,
-    "ratio": 1.05,
+    "latestTotal": 25870,
+    "avg30Total": 25732,
+    "ratio": 1.01,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 34
+  "streak": 35
 }
