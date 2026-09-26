@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-25T11:16:38.216Z",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-26T10:53:15.817Z",
+  "date": "2026-09-26",
   "verdict": {
     "answer": "NO",
-    "latin": "NONDUM",
-    "tagline": "Barbarians at the gates: none. Gates: also none.",
+    "latin": "NEGATUR",
+    "tagline": "Rome was not built in a day. It was also not rebuilt today.",
     "status": "FALLEN"
   },
   "roman": {
-    "text": "a.d. VII Kal. Oct.",
-    "full": "ante diem VII Kalendas Octobres",
+    "text": "a.d. VI Kal. Oct.",
+    "full": "ante diem VI Kalendas Octobres",
     "auc": 2779,
     "aucRoman": "MMDCCLXXIX",
     "yearRoman": "MMXXVI",
     "monthLatin": "September"
   },
   "counters": {
-    "daysSinceWest": 566145,
-    "daysSinceEast": 209394,
+    "daysSinceWest": 566146,
+    "daysSinceEast": 209395,
     "uptimePct": 79.37,
     "uptimeWestPct": 44.21,
     "yearsSinceFounding": 2778
@@ -31,71 +31,67 @@
     "text": "Brutus beats Octavian; Antony beats Cassius, who kills himself believing all is lost. Round two on 23 October.",
     "tag": "BATTLE",
     "wiki": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
-    "inDays": 8
+    "inDays": 7
   },
   "emperor": {
-    "name": "Zeno",
-    "born": "c. AD 425",
-    "reign": "AD 474–491",
-    "dynasty": "Leonid",
-    "line": "Received the Western regalia from Odoacer in 476. From Constantinople, the \"end of the Western Empire\" looked like an administrative tidy-up.",
+    "name": "Justinian I",
+    "born": "11 May c. AD 482",
+    "reign": "AD 527–565",
+    "dynasty": "Justinian",
+    "line": "Reconquered Africa and Italy, codified Roman law, built Hagia Sophia: \"the emperor who never sleeps\".",
     "exit": "natural causes",
-    "exitNote": "Died on 9 April 491. A later legend says he was buried alive. Probably not.",
-    "wiki": "https://en.wikipedia.org/wiki/Zeno_(emperor)"
+    "exitNote": "Died 14 November 565, aged about 83.",
+    "wiki": "https://en.wikipedia.org/wiki/Justinian_I"
   },
   "phrase": {
-    "latin": "Arma virumque cano.",
-    "english": "I sing of arms and the man.",
-    "source": "Virgil, Aeneid 1.1",
-    "note": "The Empire's founding epic, commissioned by management."
+    "latin": "Tu regere imperio populos, Romane, memento.",
+    "english": "Remember, Roman, to rule the peoples with your power.",
+    "source": "Virgil, Aeneid 6.851",
+    "note": "Anchises's job description for Rome. The contract has lapsed."
   },
   "index": {
     "ok": true,
     "stale": false,
-    "asOf": "2026-09-24",
+    "asOf": "2026-09-25",
     "articles": [
       {
         "article": "Roman_Empire",
         "title": "Roman Empire",
-        "latest": 6805,
-        "avg30": 6728
+        "latest": 7033,
+        "avg30": 6727
       },
       {
         "article": "Ancient_Rome",
         "title": "Ancient Rome",
-        "latest": 1786,
-        "avg30": 1686
+        "latest": 1634,
+        "avg30": 1684
       },
       {
         "article": "Roman_Republic",
         "title": "Roman Republic",
-        "latest": 2471,
-        "avg30": 2612
+        "latest": 2444,
+        "avg30": 2606
       },
       {
         "article": "Julius_Caesar",
         "title": "Julius Caesar",
-        "latest": 7104,
-        "avg30": 6881
+        "latest": 6555,
+        "avg30": 6893
       },
       {
         "article": "Fall_of_the_Western_Roman_Empire",
         "title": "Fall of the Western Roman Empire",
-        "latest": 2384,
-        "avg30": 2393
+        "latest": 2225,
+        "avg30": 2391
       },
       {
         "article": "Byzantine_Empire",
         "title": "Byzantine Empire",
-        "latest": 5320,
-        "avg30": 5431
+        "latest": 5156,
+        "avg30": 5393
       }
     ],
     "series": [
-      {
-        "date": "2026-08-26",
-        "views": 26181
-      },
       {
         "date": "2026-08-27",
         "views": 23951
@@ -211,13 +207,17 @@
       {
         "date": "2026-09-24",
         "views": 25870
+      },
+      {
+        "date": "2026-09-25",
+        "views": 25047
       }
     ],
-    "latestTotal": 25870,
-    "avg30Total": 25732,
-    "ratio": 1.01,
+    "latestTotal": 25047,
+    "avg30Total": 25695,
+    "ratio": 0.97,
     "level": "NOMINAL",
     "levelText": "A normal day of thinking about Rome."
   },
-  "streak": 35
+  "streak": 36
 }
